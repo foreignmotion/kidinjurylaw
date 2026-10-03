@@ -40,7 +40,8 @@ for (const t of tags) legacy.add(`/tag/${t.slug}/`);
 const archived = JSON.parse(await readFile(join(ROOT, 'wordpress-export/archived-urls.json'), 'utf8'));
 
 const archivedMissing = [];
-for (const u of archived) if (!legacy.has(u) && !(await resolves(u)) && !redirected(u)) archivedMissing.push(u);
+const wpInternals = /^\/wp-content\/(?!uploads\/)/; // WordPress plugin/theme/script files, never pages
+for (const u of archived) if (!wpInternals.test(u) && !legacy.has(u) && !(await resolves(u)) && !redirected(u)) archivedMissing.push(u);
 const missing = [];
 for (const u of legacy) if (!(await resolves(u)) && !redirected(u)) missing.push(u);
 

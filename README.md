@@ -70,7 +70,8 @@ empty quote blocks left by the WordPress editor.
 ## Deploying / cutover from WordPress.com
 
 **Cloudflare project** (Workers & Pages → Create → Import a repository → `foreignmotion/kidinjurylaw`):
-build command `npm run build`, deploy command `npx wrangler deploy` (config in `wrangler.jsonc`). Check the
+deploy command `npx wrangler deploy`. The build runs automatically as part of the deploy (`build.command` in
+`wrangler.jsonc`), so the Build command field can be left empty. Check the
 `*.workers.dev` preview before switching DNS.
 
 **DNS switch** (the domain's DNS is currently hosted by WordPress.com; registrar is Wild West Domains, which

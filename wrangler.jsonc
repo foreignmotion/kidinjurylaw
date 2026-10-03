@@ -5,7 +5,11 @@
   "observability": {
     "enabled": true
   },
-  // Static site built by Astro into dist/ (Cloudflare build command: npm run build).
+  // `wrangler deploy` builds the site first (Astro -> dist/ + URL check), so a deploy works
+  // even if the Cloudflare project's "Build command" field is left empty.
+  "build": {
+    "command": "npm run build"
+  },
   "assets": {
     "directory": "./dist",
     "html_handling": "auto-trailing-slash",
