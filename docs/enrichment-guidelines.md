@@ -1,7 +1,7 @@
-# Post enrichment guidelines (Short Answers, FAQ, meta description)
+# Post enrichment guidelines (Article Summaries (the `shortAnswer` field), FAQ, meta description)
 
 Every post on the Kidinjury Law Blog gets a small set of reader- and search-facing extras stored in
-`src/data/enrichment/<slug>.json`. They are displayed around the post (Short Answer box at the top, FAQ at the
+`src/data/enrichment/<slug>.json`. They are displayed around the post (Article Summary box at the top, FAQ at the
 bottom, meta description in the page head) and emitted as structured data for search engines and AI answer engines.
 
 **The post text itself is never changed.** These extras are built from the post's own words.

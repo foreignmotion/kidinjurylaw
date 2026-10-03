@@ -11,7 +11,7 @@ Built with [Astro](https://astro.build) and hosted on Cloudflare Workers (static
 npm install
 npm run dev               # local dev server at http://localhost:4321
 npm run build             # build to dist/ + URL safety check (fails on any missing legacy URL or broken link)
-npm run check:enrichment  # verify Short Answers / FAQ answers are drawn from each post's own wording
+npm run check:enrichment  # verify Article Summaries (the `shortAnswer` field) / FAQ answers are drawn from each post's own wording
 npm run images            # regenerate headshot/banner and recompress /wp-content/uploads
 ```
 

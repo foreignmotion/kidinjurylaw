@@ -32,7 +32,7 @@ html = html.replace(/<(h[23])([^>]*)>([\s\S]*?)<\/\1>/g, (all, tag, attrs, inner
   toc.push({ id, text });
   const s = sections.find((x) => norm(x.heading) === norm(text));
   const box = s
-    ? `<div class="short-answer"><span class="short-answer__label">Short answer</span><p>${escapeHtml(s.shortAnswer)}</p></div>`
+    ? `<div class="short-answer"><span class="short-answer__label">Section Summary</span><p>${escapeHtml(s.shortAnswer)}</p></div>`
     : '';
   return `<${tag}${attrs}>${inner}</${tag}>${box}`;
 });
@@ -165,7 +165,7 @@ if (faq.length) {
         <div>
           {e.shortAnswer && (
             <div class="short-answer">
-              <span class="short-answer__label">Short answer</span>
+              <span class="short-answer__label">Article Summary</span>
               <p>{e.shortAnswer}</p>
             </div>
           )}

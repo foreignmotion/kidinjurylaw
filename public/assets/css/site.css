@@ -325,7 +325,6 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
 
 /* ---------- Blog index hero (slate) ---------- */
 .blog-hero .wrap { padding-block: clamp(44px, 24.69px + 4.952vw, 96px); }
-@media (max-width: 999px) { .blog-hero__grid { display: flex; flex-direction: column; } }
 .blog-hero__title {
   font-family: var(--font-display); font-weight: 400; letter-spacing: -0.015em; color: var(--on-dark);
   font-size: clamp(44px, 33.6px + 2.667vw, 72px); line-height: 1;
@@ -334,7 +333,8 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
 .blog-hero__by { display: flex; align-items: center; gap: 14px; margin-top: 8px; padding-top: 22px; border-top: 1px solid rgba(255,255,255,.2); max-width: 640px; }
 .blog-hero__by img { width: 56px; height: 56px; border-radius: 50%; flex: none; }
 .blog-hero__by .nm { font-weight: 600; color: var(--white); }
-.blog-hero__by .cr { font-size: 15px; line-height: 1.5; color: var(--on-dark-soft); }
+/* lighter than the usual helper grey: this sits on the photo overlay, not flat slate (keeps ≥ 4.5:1 over the brightest pixels) */
+.blog-hero__by .cr { font-size: 15px; line-height: 1.5; color: var(--on-slate-soft); }
 .blog-hero__by a { color: var(--white); }
 
 /* ---------- Post list (ledger) ---------- */
@@ -507,14 +507,22 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
 /* Old WordPress inline font sizes inside post text shouldn't override the reading size. */
 .prose span[style] { font-size: inherit !important; line-height: inherit !important; }
 
-/* Blog home hero: text, then the blog's banner photo (1000x288 original) as a wide strip */
-.blog-hero__grid { gap: 32px; }
-.blog-hero__text { display: flex; flex-direction: column; gap: 18px; }
+/* Blog home hero: the blog's banner photo fills the background; a slate overlay keeps the text readable. */
+.blog-hero { position: relative; overflow: hidden; isolation: isolate; }
+.blog-hero__bg { position: absolute; inset: 0; z-index: -2; }
+.blog-hero__bg img { width: 100%; height: 100%; object-fit: cover; object-position: 70% 30%; }
+.blog-hero::before {
+  content: ""; position: absolute; inset: 0; z-index: -1;
+  background: linear-gradient(180deg, rgba(57, 81, 101, .92) 0%, rgba(57, 81, 101, .88) 100%);
+}
+.blog-hero .wrap { min-height: clamp(440px, 300px + 22vw, 620px); display: flex; align-items: center; }
+.blog-hero__text { display: flex; flex-direction: column; gap: 18px; max-width: 680px; }
 .blog-hero__page { display: block; font-size: 0.45em; color: var(--on-dark-soft); margin-top: 8px; }
-.blog-hero__banner { display: block; border-radius: var(--radius-panel); overflow: hidden; max-width: 1000px; }
-.blog-hero__banner img { width: 100%; height: auto; aspect-ratio: 1000 / 288; object-fit: cover; }
-@media (max-width: 599px) { .blog-hero__banner img { aspect-ratio: 16 / 9; object-position: 66% 40%; } }
 @media (min-width: 1000px) {
-  .blog-hero__text { grid-column: 1 / span 8; }
-  .blog-hero__banner { grid-column: 1 / -1; }
+  /* Shorter hero = less upscaling of the 1000px-wide photo, and the face can sit to the right of the text. */
+  .blog-hero .wrap { min-height: 480px; padding-block: 64px; }
+  .blog-hero__bg img { object-position: 100% 32%; }
+  .blog-hero::before {
+    background: linear-gradient(90deg, rgba(57, 81, 101, .96) 0%, rgba(57, 81, 101, .92) 44%, rgba(57, 81, 101, .30) 66%, rgba(57, 81, 101, .06) 100%);
+  }
 }
