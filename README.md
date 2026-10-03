@@ -31,6 +31,11 @@ The 61 migrated posts keep their original HTML (`format: html`) so **the post te
 Rendering only adds attributes (heading ids, image sizes, alt text from captions, video titles) and strips
 empty quote blocks left by the WordPress editor.
 
+**Edits made after the export** (re-running `npm run export:wordpress` would undo these, so re-apply them if you ever do):
+- Images removed at the client's request from the dog-attack (2020/09/08), daycare compensation (2020/06/06) and
+  drowning/pool (2020/07/31) posts; the drowning post's featured image was removed too. Post text unchanged.
+- About page: 2025 family photo added above the "Pearson Family – 2025" caption.
+
 ## Adding a new post
 
 1. Create `src/content/posts/<slug>.md`:

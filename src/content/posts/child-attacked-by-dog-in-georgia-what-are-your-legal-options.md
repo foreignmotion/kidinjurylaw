@@ -14,7 +14,6 @@ tags:
 excerpt: Has your child been attacked and bitten by a vicious dog? If so, what are your legal options? How can you get compensation for your child’s injury? How do you know if you need to hire an attorney? In this … Continue reading &rarr;
 format: html
 ---
-<figure class="wp-block-image size-large"><img loading="lazy" width="584" height="411" src="/wp-content/uploads/2020/09/dog-2.jpg" alt="" class="wp-image-1182" /></figure>
 
 
 

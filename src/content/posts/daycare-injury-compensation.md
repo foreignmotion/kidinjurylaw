@@ -14,7 +14,6 @@ tags:
 excerpt: Daycares can be dangerous. Take a recent case of mine for example. I was hired by a young mother whose 2-year-old daughter had suffered a serious injury while in daycare. The little girl was playing on the floor in a class of 23 … Continue reading &rarr;
 format: html
 ---
-<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="/wp-content/uploads/2020/06/image.png" alt="" class="wp-image-1124" width="605" height="428" /></figure>
 
 
 

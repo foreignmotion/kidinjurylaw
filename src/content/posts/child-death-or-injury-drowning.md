@@ -13,13 +13,11 @@ tags:
   - pool-injury-liability
   - swimming-pool-injury-lawsuit
   - swimming-pool-injury-statistics
-featuredImage: /wp-content/uploads/2013/05/child-in-pool.jpg
 excerpt: Summer is here, and many are enjoying the swim season. However, if children are not properly supervised at the pool, summer-time fun can quickly turn tragic. Drowning is the leading cause of injury death for children 1 to 4 years … Continue reading &rarr;
 format: html
 ---
-<p><span style="font-size:15px;font-style:inherit;line-height:1.625;"><img class="aligncenter" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia-cdn.tripadvisor.com%2Fmedia%2Fphoto-s%2F01%2F16%2F70%2Fb0%2Fkids-playing-in-the-pool.jpg&amp;f=1&amp;nofb=1" alt="suicrosomiz: Images Of Kids Playing" /></span>Summer is here, and many are enjoying the swim season. However, if children are not properly supervised at the pool, summer-time fun can quickly turn tragic.</p>
+<p><span style="font-size:15px;font-style:inherit;line-height:1.625;"></span>Summer is here, and many are enjoying the swim season. However, if children are not properly supervised at the pool, summer-time fun can quickly turn tragic.</p>
 <p><strong>Drowning is the leading cause of injury death for children 1 to 4 years of age in the United States. (</strong>See<strong> <a href="https://www.nsc.org/home-safety">HERE</a></strong> for 2017 National Safety Council statistics<strong>)</strong></p>
-<p><img src="/wp-content/uploads/2013/05/top-causes-of-injury-death-to-children-2009.png" alt="Top Causes of Injury Death to Children - 2009" /></p>
 <p><em>Centers for Disease Control and Prevention / <a href="http://www.cdc.gov/stltpublichealth/townhall/presentations/2012/04_2012_Child_Injury.pdf">CDC Vital Signs: Child Injury</a></em></p>
 <p>Many of these injuries and deaths from drowning are <strong>foreseeable, controllable, and preventable</strong>. Pool owners can prevent the tragic impact the death or injury of a child brings to a family by following a few simple safety rules, but too often, proper safety measures are not taken, resulting in tragedy. What legal recourse is available to parents whose child has suffered serious pool related injury or death?</p>
 <p>The answer to this question depends on the ability to prove negligence on the part of the pool owner. If your child’s injury is a result of the owner’s failure to follow safety regulations, you may have a strong case. Unfortunately, it is harder to determine pool injury liability than one might think. There isn&#8217;t a published &#8220;list&#8221; of all safety rules that apply, and the standards/rules may vary depending on the location and type of pool. This is why you need a lawyer to research what standards/rules apply to your situation and to determine how to best present your claim to the insurance company or jury.</p>
