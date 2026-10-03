@@ -275,6 +275,7 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
 .closing__para {
   font-size: clamp(18px, 16.51px + 0.381vw, 22px); line-height: 1.6; max-width: 680px; color: var(--on-slate-soft);
 }
+.closing__para a { color: var(--white); font-weight: 600; text-underline-offset: 4px; white-space: nowrap; }
 .closing__actions { display: flex; flex-direction: column; gap: 10px; padding-top: 4px; width: 100%; }
 .closing__actions .btn { min-height: 56px; padding: 10px 20px; font-size: 16px; line-height: 1.4; }
 .closing__actions .btn--paper { font-size: 17px; }
