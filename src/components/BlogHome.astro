@@ -1,0 +1,66 @@
+---
+import Base from '../layouts/Base.astro';
+import PostList from './PostList.astro';
+import Pager from './Pager.astro';
+import TopicList from './TopicList.astro';
+import { SITE, AUTHOR, type Post } from '../lib/site';
+
+interface Props { posts: Post[]; page: number; pages: number }
+const { posts, page, pages } = Astro.props;
+const path = page === 1 ? '/' : `/page/${page}/`;
+const prev = page > 1 ? (page === 2 ? '/' : `/page/${page - 1}/`) : undefined;
+const next = page < pages ? `/page/${page + 1}/` : undefined;
+
+const jsonLd = [
+  {
+    '@type': 'Blog',
+    '@id': 'https://kidinjurylaw.com/#blog',
+    name: SITE.name,
+    description: SITE.tagline,
+    url: 'https://kidinjurylaw.com/',
+    inLanguage: 'en-US',
+    author: AUTHOR.jsonLd,
+    publisher: { '@type': 'Attorney', '@id': 'https://petepearsonlaw.com/#firm', name: 'Pete Pearson Law', url: 'https://petepearsonlaw.com/' },
+  },
+  { '@type': 'WebSite', '@id': 'https://kidinjurylaw.com/#website', name: SITE.name, url: 'https://kidinjurylaw.com/' },
+];
+---
+<Base
+  title={page === 1 ? `${SITE.name} | ${SITE.tagline}` : `${SITE.name} | Page ${page}`}
+  description="Georgia child injury law explained for parents by Attorney Pete Pearson: dog bites, day care and school injuries, car and school bus accidents, birth injuries, settlements and more."
+  path={path}
+  jsonLd={page === 1 ? jsonLd : []}
+>
+  <section class="band band--slate blog-hero" aria-labelledby="blog-title">
+    <div class="wrap grid-12 blog-hero__grid">
+      <div class="blog-hero__text">
+        <div class="rule-accent" aria-hidden="true"></div>
+        {page === 1 ? <h1 class="blog-hero__title" id="blog-title">{SITE.name}</h1>
+                    : <h1 class="blog-hero__title" id="blog-title">{SITE.name} <span class="blog-hero__page">Page {page}</span></h1>}
+        <p class="blog-hero__deck">{SITE.tagline}</p>
+        <div class="blog-hero__by">
+          <img src="/assets/img/pete-pearson-headshot-160.jpg" srcset="/assets/img/pete-pearson-headshot-320.jpg 2x" width="56" height="56" alt="Attorney Pete Pearson">
+          <div>
+            <p class="nm">By <a href={SITE.aboutUrl}>{AUTHOR.byline}</a></p>
+            <p class="cr">{AUTHOR.credentials.join(' · ')}</p>
+          </div>
+        </div>
+      </div>
+      <picture class="blog-hero__banner">
+        <source type="image/webp" srcset="/assets/img/kidinjurylaw-banner.webp">
+        <img src="/assets/img/kidinjurylaw-banner.jpg" width="1000" height="288" alt="" fetchpriority="high">
+      </picture>
+    </div>
+  </section>
+
+  <section class="band band--paper blog-index section-pad" aria-labelledby="latest-h">
+    <div class="wrap">
+      <div>
+        <h2 class="visually-hidden" id="latest-h">{page === 1 ? 'Latest posts' : `Posts, page ${page}`}</h2>
+        <PostList posts={posts} />
+        <Pager prev={prev} next={next} />
+      </div>
+      <TopicList />
+    </div>
+  </section>
+</Base>

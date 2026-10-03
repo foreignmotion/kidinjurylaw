@@ -1,0 +1,8 @@
+/feed/
+  Content-Type: application/rss+xml; charset=utf-8
+
+/assets/*
+  Cache-Control: public, max-age=604800
+
+/wp-content/uploads/*
+  Cache-Control: public, max-age=2592000

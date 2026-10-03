@@ -1,0 +1,17 @@
+---
+import { categories, getPosts } from '../lib/site';
+const posts = await getPosts();
+const counts = new Map<string, number>();
+for (const p of posts) for (const c of p.data.categories) counts.set(c, (counts.get(c) ?? 0) + 1);
+const list = categories
+  .filter((c) => c.slug !== 'uncategorized' && counts.get(c.slug))
+  .sort((a, b) => a.name.localeCompare(b.name));
+---
+<nav class="topic-list" aria-labelledby="topics-h">
+  <h2 class="mono" id="topics-h">Browse by topic</h2>
+  <ul>
+    {list.map((c) => (
+      <li><a href={`/category/${c.slug}/`}><span>{c.name}</span><span class="n">{counts.get(c.slug)}</span></a></li>
+    ))}
+  </ul>
+</nav>

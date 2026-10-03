@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 104561243,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/abortion-malpractice/",
+    "name": "Abortion Malpractice",
+    "slug": "abortion-malpractice",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/104561243",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=104561243"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28600,
+    "count": 3,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/about-the-author/",
+    "name": "About the Author",
+    "slug": "about-the-author",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/28600",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=28600"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1802226,
+    "count": 6,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/birth-injuries/",
+    "name": "Birth Injuries",
+    "slug": "birth-injuries",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/1802226",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=1802226"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 176341813,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-bike-injury/",
+    "name": "Child Bike Injury",
+    "slug": "child-bike-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/176341813",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=176341813"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67916500,
+    "count": 5,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-brain-injury/",
+    "name": "Child Brain Injury",
+    "slug": "child-brain-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67916500",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67916500"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66814753,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-burn-injury/",
+    "name": "Child Burn Injury",
+    "slug": "child-burn-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/66814753",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=66814753"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67245041,
+    "count": 5,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-day-care-injury/",
+    "name": "Child Day Care Injury",
+    "slug": "child-day-care-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67245041",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67245041"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 170493003,
+    "count": 3,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-death-injury-drowning/",
+    "name": "Child Death Injury - Drowning",
+    "slug": "child-death-injury-drowning",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/170493003",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=170493003"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67859517,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-dental-malpractice/",
+    "name": "Child Dental Malpractice",
+    "slug": "child-dental-malpractice",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67859517",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67859517"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67709474,
+    "count": 6,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-dog-bite-injury/",
+    "name": "Child Dog Bite Injury",
+    "slug": "child-dog-bite-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67709474",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67709474"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67237940,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-fall-injury/",
+    "name": "Child Fall Injury",
+    "slug": "child-fall-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67237940",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67237940"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67537341,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-gun-injury/",
+    "name": "Child Gun Injury",
+    "slug": "child-gun-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67537341",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67537341"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 206432983,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injuring-child/",
+    "name": "Child Injuring Child",
+    "slug": "child-injuring-child",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/206432983",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=206432983"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68621871,
+    "count": 6,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-auto-accident/",
+    "name": "Child Injury - Auto Accident",
+    "slug": "child-injury-auto-accident",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/68621871",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=68621871"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67540628,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-product-liability-dangerous-drugs/",
+    "name": "Child Injury - Product Liability - Dangerous Drugs",
+    "slug": "child-injury-product-liability-dangerous-drugs",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67540628",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67540628"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68748749,
+    "count": 6,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-product-liability-dangerous-toys/",
+    "name": "Child Injury - Product Liability - Dangerous Toys",
+    "slug": "child-injury-product-liability-dangerous-toys",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/68748749",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=68748749"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68360251,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-product-liability-dangerous-vehicles/",
+    "name": "Child Injury - Product Liability - Dangerous Vehicles",
+    "slug": "child-injury-product-liability-dangerous-vehicles",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/68360251",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=68360251"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 104195417,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-scarring/",
+    "name": "Child Injury - Scarring",
+    "slug": "child-injury-scarring",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/104195417",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=104195417"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 106779315,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-school-bus-accidents/",
+    "name": "Child Injury - School Bus Accidents",
+    "slug": "child-injury-school-bus-accidents",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/106779315",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=106779315"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 192646250,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-settlements/",
+    "name": "Child Injury - Settlements",
+    "slug": "child-injury-settlements",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/192646250",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=192646250"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 69147241,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-statutes-of-limitation/",
+    "name": "Child Injury - Statutes of Limitation",
+    "slug": "child-injury-statutes-of-limitation",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/69147241",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=69147241"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 238460166,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-toxic-mold/",
+    "name": "Child Injury - Toxic Mold",
+    "slug": "child-injury-toxic-mold",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/238460166",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=238460166"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 180626969,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-vaccines/",
+    "name": "Child Injury - Vaccines",
+    "slug": "child-injury-vaccines",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/180626969",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=180626969"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68887703,
+    "count": 3,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-injury-law-in-georgia-legal-reform-needed/",
+    "name": "Child Injury Law in Georgia - Legal Reform Needed",
+    "slug": "child-injury-law-in-georgia-legal-reform-needed",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/68887703",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=68887703"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67419740,
+    "count": 3,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-medical-malpractice/",
+    "name": "Child Medical Malpractice",
+    "slug": "child-medical-malpractice",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67419740",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67419740"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 238460139,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-premises-liability-injury/",
+    "name": "Child Premises Liability Injury",
+    "slug": "child-premises-liability-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/238460139",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=238460139"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 66867972,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-school-bus-injury/",
+    "name": "Child School Bus Injury",
+    "slug": "child-school-bus-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/66867972",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=66867972"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 160841680,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-school-injury-in-georgia/",
+    "name": "Child School Injury in Georgia",
+    "slug": "child-school-injury-in-georgia",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/160841680",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=160841680"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 67481983,
+    "count": 3,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-sexual-abuse-litigation/",
+    "name": "Child Sexual Abuse Litigation",
+    "slug": "child-sexual-abuse-litigation",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/67481983",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=67481983"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 159438814,
+    "count": 2,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-spinal-cord-injury/",
+    "name": "Child Spinal Cord Injury",
+    "slug": "child-spinal-cord-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/159438814",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=159438814"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 68150615,
+    "count": 4,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-sports-injuries/",
+    "name": "Child Sports Injuries",
+    "slug": "child-sports-injuries",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/68150615",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=68150615"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 195332991,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/child-tooth-injury/",
+    "name": "Child Tooth Injury",
+    "slug": "child-tooth-injury",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/195332991",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=195332991"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 75579742,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/court-approved-minor-settlements/",
+    "name": "Court Approved Minor Settlements",
+    "slug": "court-approved-minor-settlements",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/75579742",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=75579742"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 8,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/1",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3217211,
+    "count": 1,
+    "description": "",
+    "link": "https://kidinjurylaw.com/category/wrongful-adoption/",
+    "name": "Wrongful Adoption",
+    "slug": "wrongful-adoption",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories/3217211",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://public-api.wordpress.com/wp/v2/sites/kidinjurylaw.com/posts?categories=3217211"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

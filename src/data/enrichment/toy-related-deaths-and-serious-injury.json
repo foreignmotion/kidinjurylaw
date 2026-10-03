@@ -1,0 +1,24 @@
+{
+  "slug": "toy-related-deaths-and-serious-injury",
+  "description": "What legal options do parents have if their child has been injured by a dangerous toy? Toys from the 2013 Trouble in Toyland report and Georgia law.",
+  "shortAnswer": "Normally, a products liability claim is going to be the best option for parents. In Georgia product liability is centered upon O.C.G.A. Section 51-1-11, which provides that the manufacturer of personal property sold as new is strictly liable to individuals who are injured by that property.",
+  "sections": [],
+  "faq": [
+    {
+      "q": "What must a parent prove in a Georgia strict liability claim over a dangerous toy?",
+      "a": "To establish a strict liability claim under O.C.G.A. Section 51-1-11, a plaintiff must prove that (1) the defendant was the manufacturer of the product, (2) the product was defective when it left the control of the manufacturer, and (3) the product's defective condition proximately caused the injury to the plaintiff."
+    },
+    {
+      "q": "What is the most common toy-related injury to children?",
+      "a": "The most common toy-related child injury is choking and the most common causes of choking are small toy parts, small balls, marbles, and balloons. Federal law bans small parts in toys for children under three and requires a warning label on toys with small parts for children between the ages of four and six."
+    },
+    {
+      "q": "How do regulators decide whether a toy part is a choking hazard?",
+      "a": "The choke test cylinder has an interior diameter of 1.25 inches and is designed to approximate the size of a fully expanded throat of a child under three years old. If a toy or part of a toy fits inside the test tube, the product is a choking hazard and is banned for children under the age of three."
+    },
+    {
+      "q": "Why are swallowed magnet toys so dangerous for children?",
+      "a": "If swallowed, one magnet may pass through the digestive system without incident. If two or more magnets are swallowed, however, they can attract each other in the body. Two or more magnets attracted to each other in the intestine can create a bowel obstruction or perforation."
+    }
+  ]
+}

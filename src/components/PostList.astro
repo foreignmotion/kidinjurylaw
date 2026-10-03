@@ -1,0 +1,21 @@
+---
+import { categoryName, formatDate, describe, type Post } from '../lib/site';
+interface Props { posts: Post[]; headingLevel?: 'h2' | 'h3' }
+const { posts, headingLevel = 'h2' } = Astro.props;
+const H = headingLevel;
+---
+<ol class="post-list">
+  {posts.map((post) => {
+    const cat = post.data.categories.find((c) => c !== 'uncategorized');
+    return (
+      <li class="post-row">
+        <div class="post-row__meta">
+          <time datetime={post.data.date.toISOString()}>{formatDate(post.data.date)}</time>
+          {cat && <a href={`/category/${cat}/`}>{categoryName(cat)}</a>}
+        </div>
+        <H class="post-row__title"><a href={post.data.path}>{post.data.title}</a></H>
+        <p class="post-row__excerpt">{describe(post)}</p>
+      </li>
+    );
+  })}
+</ol>

@@ -1,0 +1,245 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import {
+  SITE, AUTHOR, getPosts, getEnrichment, categoryName, tagName, commentsFor, formatDate, isoDate,
+  readingMinutes, describe, lastModified, escapeHtml, toText, fixWordPressHtml, type Post,
+} from '../lib/site';
+
+interface Props { post: Post }
+const { post } = Astro.props;
+const e = getEnrichment(post);
+const faq = e.faq ?? [];
+const sections = e.sections ?? [];
+
+// ---- Post body: original HTML for migrated posts, rendered Markdown for new ones ----
+let html = '';
+let MarkdownContent: any = null;
+if (post.data.format === 'html') html = post.body ?? '';
+else ({ Content: MarkdownContent } = await render(post));
+
+// Give h2/h3 headings ids (for the table of contents) and place each section's Short Answer under its heading.
+const norm = (s: string) => toText(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
+const slugify = (s: string) => norm(s).replace(/\s+/g, '-').slice(0, 60) || 'section';
+const toc: { id: string; text: string }[] = [];
+const used = new Set<string>();
+html = html.replace(/<(h[23])([^>]*)>([\s\S]*?)<\/\1>/g, (all, tag, attrs, inner) => {
+  const text = toText(inner);
+  if (!text) return all;
+  let id = (attrs.match(/\sid="([^"]+)"/) || [])[1];
+  if (!id) { id = slugify(text); while (used.has(id)) id += '-2'; attrs += ` id="${id}"`; }
+  used.add(id);
+  toc.push({ id, text });
+  const s = sections.find((x) => norm(x.heading) === norm(text));
+  const box = s
+    ? `<div class="short-answer"><span class="short-answer__label">Short answer</span><p>${escapeHtml(s.shortAnswer)}</p></div>`
+    : '';
+  return `<${tag}${attrs}>${inner}</${tag}>${box}`;
+});
+// Drop empty quote blocks left behind by the WordPress editor (no text in them).
+for (let i = 0; i < 3; i++) html = html.replace(/<blockquote[^>]*>\s*(?:<p[^>]*>\s*<\/p>\s*)*<\/blockquote>/g, '');
+html = await fixWordPressHtml(html);
+const showToc = toc.length >= 2;
+
+// ---- Taxonomy, related posts, comments ----
+const cats = post.data.categories.filter((c) => c !== 'uncategorized');
+const primaryCat = cats[0];
+const all = await getPosts();
+const related = all
+  .filter((p) => p.id !== post.id && (primaryCat ? p.data.categories.includes(primaryCat) : true))
+  .slice(0, 3);
+const relatedFill = related.length < 3 ? all.filter((p) => p.id !== post.id && !related.includes(p)).slice(0, 3 - related.length) : [];
+const relatedPosts = [...related, ...relatedFill];
+
+const comments = commentsFor(post);
+const topLevel = comments.filter((c) => !c.parent || !comments.some((x) => x.id === c.parent));
+const repliesTo = (id: number) => comments.filter((c) => c.parent === id);
+
+const published = post.data.date;
+const modified = lastModified(post);
+const showUpdated = modified.valueOf() - published.valueOf() > 1000 * 60 * 60 * 24 * 30;
+const url = new URL(post.data.path, SITE.url).href;
+const image = post.data.featuredImage ? new URL(post.data.featuredImage, SITE.url).href : undefined;
+
+// ---- Structured data ----
+const jsonLd: object[] = [
+  {
+    '@type': 'BlogPosting',
+    '@id': `${url}#article`,
+    headline: post.data.title,
+    description: describe(post),
+    url,
+    mainEntityOfPage: url,
+    datePublished: published.toISOString(),
+    dateModified: modified.toISOString(),
+    inLanguage: 'en-US',
+    ...(image ? { image } : {}),
+    author: AUTHOR.jsonLd,
+    publisher: {
+      '@type': 'Attorney',
+      '@id': 'https://petepearsonlaw.com/#firm',
+      name: 'Pete Pearson Law',
+      url: 'https://petepearsonlaw.com/',
+      telephone: '+1-678-358-2564',
+      areaServed: { '@type': 'State', name: 'Georgia' },
+      logo: { '@type': 'ImageObject', url: 'https://kidinjurylaw.com/assets/img/logo-ink.png' },
+    },
+    isPartOf: { '@type': 'Blog', '@id': 'https://kidinjurylaw.com/#blog', name: SITE.name, url: 'https://kidinjurylaw.com/' },
+    ...(cats.length ? { articleSection: cats.map(categoryName) } : {}),
+    ...(post.data.tags.length ? { keywords: post.data.tags.map(tagName).join(', ') } : {}),
+    ...(e.shortAnswer ? { abstract: e.shortAnswer } : {}),
+    wordCount: toText(html).split(/\s+/).length,
+    ...(comments.length ? { commentCount: comments.length } : {}),
+  },
+  {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: SITE.name, item: 'https://kidinjurylaw.com/' },
+      ...(primaryCat ? [{ '@type': 'ListItem', position: 2, name: categoryName(primaryCat), item: `https://kidinjurylaw.com/category/${primaryCat}/` }] : []),
+      { '@type': 'ListItem', position: primaryCat ? 3 : 2, name: post.data.title, item: url },
+    ],
+  },
+];
+if (faq.length) {
+  jsonLd.push({
+    '@type': 'FAQPage',
+    '@id': `${url}#faq`,
+    mainEntity: faq.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+---
+<Base
+  title={`${post.data.title} | ${SITE.name}`}
+  description={describe(post)}
+  path={post.data.path}
+  ogType="article"
+  ogImage={post.data.featuredImage}
+  jsonLd={jsonLd}
+  publishedTime={published.toISOString()}
+  modifiedTime={modified.toISOString()}
+>
+  <article>
+    <header class="band band--paper post-hero">
+      <div class="wrap">
+        <div class="post-hero__main">
+          <nav class="crumbs" aria-label="Breadcrumb">
+            <ol>
+              <li><a href="/">Kidinjury Law Blog</a></li>
+              {primaryCat && <li><a href={`/category/${primaryCat}/`}>{categoryName(primaryCat)}</a></li>}
+            </ol>
+          </nav>
+          <p class="mono post-hero__eyebrow">About a {readingMinutes(post)}-minute read</p>
+          <h1 class="post-hero__title">{post.data.title}</h1>
+          <div class="byline">
+            <picture>
+              <source type="image/webp" srcset="/assets/img/pete-pearson-headshot-160.webp 1x, /assets/img/pete-pearson-headshot-320.webp 2x">
+              <img src="/assets/img/pete-pearson-headshot-160.jpg" srcset="/assets/img/pete-pearson-headshot-320.jpg 2x" width="64" height="64" alt="Attorney Pete Pearson">
+            </picture>
+            <div>
+              <p class="byline__name">By <a href={SITE.aboutUrl} rel="author">{AUTHOR.byline}</a></p>
+              <p class="byline__creds">{AUTHOR.credentials.map((c) => <span>{c}</span>)}</p>
+              <p class="byline__dates">
+                Published <time datetime={isoDate(published)}>{formatDate(published)}</time>
+                {showUpdated && <> · Updated <time datetime={isoDate(modified)}>{formatDate(modified)}</time></>}
+              </p>
+            </div>
+          </div>
+        </div>
+        {faq.length > 0 && (
+          <aside class="qa-card" aria-labelledby="qa-h">
+            <h2 class="mono" id="qa-h">Questions this post answers</h2>
+            <ol>{faq.map((f, i) => <li><a href={`#faq-${i + 1}`}>{f.q}</a></li>)}</ol>
+          </aside>
+        )}
+      </div>
+    </header>
+
+    <div class:list={['band', 'band--paper', 'post-body', { 'post-body--toc': showToc }]}>
+      <div class="wrap">
+        {showToc && (
+          <nav class="toc" aria-label="On this page">
+            <p class="mono">On this page</p>
+            <ol>{toc.map((t) => <li><a href={`#${t.id}`}>{t.text}</a></li>)}</ol>
+          </nav>
+        )}
+        <div>
+          {e.shortAnswer && (
+            <div class="short-answer">
+              <span class="short-answer__label">Short answer</span>
+              <p>{e.shortAnswer}</p>
+            </div>
+          )}
+          {MarkdownContent ? <div class="prose"><MarkdownContent /></div> : <div class="prose" set:html={html} />}
+
+          {(cats.length > 0 || post.data.tags.length > 0) && (
+            <div class="post-tax">
+              {cats.length > 0 && (<><h2 class="mono">Filed under</h2><div class="chips">{cats.map((c) => <a href={`/category/${c}/`}>{categoryName(c)}</a>)}</div></>)}
+              {post.data.tags.length > 0 && (<><h2 class="mono">Tags</h2><div class="chips">{post.data.tags.map((t) => <a href={`/tag/${t}/`}>{tagName(t)}</a>)}</div></>)}
+            </div>
+          )}
+
+          {comments.length > 0 && (
+            <section class="comments" aria-labelledby="comments-h">
+              <h2 id="comments-h">{comments.length} {comments.length === 1 ? 'comment' : 'comments'}</h2>
+              <p class="comments__note">Comments are closed.</p>
+              {topLevel.map((c) => (
+                <>
+                  <div class="comment" id={`comment-${c.id}`}>
+                    <span class="comment__who">{c.author}</span><time class="comment__when" datetime={c.date}>{formatDate(new Date(c.date))}</time>
+                    <div class="comment__body" set:html={c.html} />
+                  </div>
+                  {repliesTo(c.id).map((r) => (
+                    <div class="comment comment--reply" id={`comment-${r.id}`}>
+                      <span class="comment__who">{r.author}</span><time class="comment__when" datetime={r.date}>{formatDate(new Date(r.date))}</time>
+                      <div class="comment__body" set:html={r.html} />
+                    </div>
+                  ))}
+                </>
+              ))}
+            </section>
+          )}
+        </div>
+      </div>
+    </div>
+  </article>
+
+  {faq.length > 0 && (
+    <section class="band band--white band--rule faq" id="faq" aria-labelledby="faq-h">
+      <div class="wrap">
+        <h2 class="faq__title" id="faq-h">Frequently asked questions</h2>
+        <div class="faq__list">
+          {faq.map((f, i) => (
+            <details id={`faq-${i + 1}`} open={i === 0}>
+              <summary>{f.q}</summary>
+              <div><p>{f.a}</p></div>
+            </details>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="band band--paper band--rule related" aria-labelledby="related-h">
+    <div class="wrap">
+      <h2 class="related__title" id="related-h">{primaryCat ? `More on ${categoryName(primaryCat)}` : 'More from the blog'}</h2>
+      <div class="related__grid">
+        {relatedPosts.map((p) => (
+          <div class="related__item">
+            <span class="mono">{formatDate(p.data.date)}</span>
+            <a href={p.data.path}>{p.data.title}</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+  <script is:inline>
+    // FAQ links (hero card or a shared #faq-N URL) expand the matching answer.
+    (function () {
+      function openHash(h) { var d = h && document.querySelector(h); if (d && d.tagName === 'DETAILS') d.open = true; }
+      document.querySelectorAll('.qa-card a').forEach(function (a) {
+        a.addEventListener('click', function () { openHash(a.getAttribute('href')); });
+      });
+      openHash(location.hash);
+    })();
+  </script>
+</Base>

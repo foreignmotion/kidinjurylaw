@@ -1,0 +1,51 @@
+---
+title: Homeowner’s Insurance – What If My Child Is Hurt At Another Family’s Home?
+date: 2013-10-29T22:02:21Z
+modified: 2013-12-11T19:08:10Z
+path: /2013/10/29/homeowners-insurance-what-if-my-child-is-hurt-at-another-familys-home/
+wpId: 915
+categories:
+  - child-bike-injury
+  - child-brain-injury
+  - child-burn-injury
+  - child-death-injury-drowning
+  - child-dog-bite-injury
+  - child-fall-injury
+  - child-gun-injury
+  - child-injury-product-liability-dangerous-toys
+  - child-injury-product-liability-dangerous-vehicles
+  - child-injury-scarring
+  - child-spinal-cord-injury
+  - child-sports-injuries
+tags:
+  - georgia-child-injury-law
+  - georgia-tender-years-doctrine
+  - homeowners-insurance
+  - injury-while-at-another-persons-home
+featuredImage: /wp-content/uploads/2013/10/homes.jpg
+excerpt: If your child sustains an injury while at another family’s house and there is a homeowner’s insurance policy in effect, your child’s injury claim will almost certainly be covered. Don’t delay in reporting the injury, however, because all policies have … Continue reading &rarr;
+format: html
+---
+<p>If your child sustains an injury while at another family&#8217;s house and there is a homeowner&#8217;s insurance policy in effect, your child&#8217;s injury claim will almost certainly be covered. Don&#8217;t delay in reporting the injury, however, because all policies have a provision that says if <em>timely notice</em> is not given to the insurance company they can deny coverage.</p>
+<p>After making sure the injury is reported to the insurance company (preferably in writing), take time to assess what type of insurance claim will be appropriate. There are two types.</p>
+<p><span style="color:#0000ff;"><strong>The first type of claim under homeowner&#8217;s insurance.</strong></span> Many homeowner&#8217;s insurance policies contain &#8220;Med Pay&#8221; or &#8220;Medical Payments&#8221; coverage. &#8220;Med Pay&#8221; is no-fault coverage, which means it is available to help compensate you for medical expenses related to your child&#8217;s injury <strong>no matter how the injury took place.</strong> In other words, there is no requirement that you show that anyone was negligent. If you can show that your child was injured on the other family&#8217;s property, you can recover under the &#8220;Med Pay&#8221; coverage.</p>
+<p>&#8220;Med Pay&#8221; is sold in increments and a family may have $1,000, $2,000, $5,000, $10,000, $25,000, $50,000, or more coverage in place. The way this type of coverage works is that you submit your child&#8217;s medical bills to the homeowner&#8217;s insurance company as you receive them. Some medical providers will even handle the submissions for you. Or, if you prefer, you can have the insurance company mail you (or your attorney) a check for the cost of your child&#8217;s medical treatment. I recommend the latter approach because it allows you (or your attorney) to negotiate with your medical providers. Often providers will offer a discount to settle your child&#8217;s bill if you ask. You can save money that way and use what you save to pay for your client&#8217;s future medical care or other injury related expenses.</p>
+<p><del></del><span style="color:#0000ff;"><strong>The second type of claim under homeowner&#8217;s insurance. </strong></span><span style="font-size:15px;font-style:inherit;line-height:1.625;">The second type of coverage is <strong>bodily injury liability</strong> coverage. This pays <strong><span style="text-decoration:underline;">only</span></strong> when the owner or someone in the owner&#8217;s family is found to be at fault. You have to be able to (usually with the assistance of an attorney) prove that the owner or representative of the owner did something (or failed to do something) that constitutes negligence and that negligence led to your child&#8217;s injury. </span></p>
+<p><span style="font-size:15px;font-style:inherit;line-height:1.625;">Even if the homeowner has admitted fault, keep in mind that is is very common for stories to change after a little time goes by. Do your child a favor and document everything. If the homeowner admits fault, get that on a recording or in writing. Get them to admit the specifics of what they did wrong. This will protect you in the event they later change their story (and you would be amazed at how often stories change.)</span></p>
+<p>A bodily injury liability claim allows you to recover more damages than in a &#8220;Med Pay&#8221; claim. &#8220;Med Pay&#8221; pays only for your child&#8217;s medical expenses. A liability claim pays you for medical expenses, any related lost wages, human losses (pain and suffering), and any damages that flow from your child&#8217;s injury.</p>
+<p><span style="font-size:15px;font-style:inherit;line-height:1.625;">One question that you may have is whether your child can be held responsible for causing their own injury? This issue arises if your child was doing something that perhaps was a little foolish at the time they were hurt. The answer is: it depends. It depends on the age of your child.</span></p>
+<p>In the Georgia common law there is a legal creature known as the &#8220;tender years doctrine.&#8221; This doctrine holds that children under a certain age can not be charged with contributory negligence (fault) or assumption of the risk. The younger the child, the less likely they can be found to have contributed to their own harm.</p>
+<p>For example, there is a case that holds that a 4 year old child is presumed <strong>incapable of negligence</strong>. But there is also a case that holds that a child that is 5 years, 10 months old does not get that same presumption. Exactly when a child becomes capable of contributory negligence is not clear in the case law. It seems safe to say that if a child is older than 6 years they might be charged with contributory negligence. But the issue is one for a jury to decide and is very fact specific.</p>
+<p>So essentially, with very young children (4 and under) it is clear that they can&#8217;t be blamed for hurting themselves. With children older than 6, it is less clear. It will come down to what the courts have called a &#8220;subjective, individual standard of care for children.&#8221; In other words, the court or jury will have to examine the capacity of the child in question and their behavior and make a judgment call about whether they were capable of preventing the harm to themselves or if the adult in the situation should be charged with full or partial responsibility.</p>
+<p>An example from a recent case I handled may help clarify how the doctrine of tender years works in practice.</p>
+<p>My client, a 5 year old girl, was dropped off at the home of the Defendant. The Defendant had agreed to babysit my client.</p>
+<p>The previous Sunday was Easter Sunday and my client&#8217;s mother had pressed out the child&#8217;s hair for the occasion. When the mother dropped her daughter off at the Defendant&#8217;s house, her hair was up in a ponytail. <span style="text-decoration:underline;"><br />
+</span></p>
+<p>On the evening of the loss, the Defendant loosed the pony tail and let the girl&#8217;s hair out and shortly after <span style="text-decoration:underline;">gave her a lit candle</span> to take into the house (the Defendant was outside talking to a friend on the phone). My client went inside the house <span style="text-decoration:underline;">unsupervised</span> and while inside her hair caught on fire.</p>
+<p>What happened next shocks the conscience. After this 5 year old child was burned, the Defendant <b><span style="text-decoration:underline;">told no one</span></b>, called for <b><span style="text-decoration:underline;">no medical attention</span></b>, and <b><span style="text-decoration:underline;">hid the fact</span></b> from her <i>own</i> husband (by putting panty hose on the girl&#8217;s head to conceal the burns). The Defendant put the child to bed and kept her quiet during the night (while she fussed) by giving her Motrin.</p>
+<p>All that night, the following morning, and throughout the next day, the Defendant again <span style="text-decoration:underline;">told no one</span> and called for <span style="text-decoration:underline;">no medical attention</span>. She <span style="text-decoration:underline;">did not inform the child’s mother</span>. It was not until nearly 24 hours later, when the child’s mother returned, that her mother discovered the burns. Immediately she called 911 for an ambulance.</p>
+<p>In that case, the insurance company didn&#8217;t even bring up the tender years doctrine. But, had my client been 7 or 8 or older, the insurance company might have.</p>
+<p>One final piece of information. Because &#8220;Med Pay&#8221; claims are no-fault generally you do not need an attorney if that is the only type of claim you plan to bring. Generally the homeowner&#8217;s insurance company will pay the bills up to the limits of coverage without much of a fight. There are exceptions but generally you should be able to handle that without the expense of an attorney. If, however, you believe there was fault, it would be worth your while to consult with an attorney. Keep in mind that the attorney fee on a bodily injury liability claim is paid from the settlement, not from you or your child, and that if there is no recovery there is no attorney fee. So it is a risk free call to the attorney.</p>
+<p><span style="font-size:15px;font-style:inherit;line-height:1.625;">If your child has been injured by the negligence of another and you believe there may be grounds for a bodily injury liability claim, please call me. I have been representing families for over 17 years right here in Georgia and would be honored to talk with you. </span></p>
+<p>_________________________________</p>
+<p><a title="About Georgia Child Injury Attorney Pete Pearson" href="/about/" target="_blank">Attorney Pete Pearson</a> practices Child Injury and Wrongful Death Law in the State of Georgia. Located in the Greater Atlanta Metro Area, he is available to help families all over the State of Georgia. He can be contacted directly at Six-Seven-Eight 358-2564 or by <a title="Contact form" href="http://petepearsonlaw.com/contact/" target="_blank">Email</a>.</p>

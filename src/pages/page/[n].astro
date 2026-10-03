@@ -1,0 +1,16 @@
+---
+import BlogHome from '../../components/BlogHome.astro';
+import { getPosts, SITE } from '../../lib/site';
+
+// /page/2/ … — same pagination (10 per page) as the old WordPress home page.
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  const pages = Math.ceil(posts.length / SITE.perPage);
+  return Array.from({ length: pages - 1 }, (_, i) => {
+    const n = i + 2;
+    return { params: { n: String(n) }, props: { posts: posts.slice((n - 1) * SITE.perPage, n * SITE.perPage), page: n, pages } };
+  });
+}
+const { posts, page, pages } = Astro.props;
+---
+<BlogHome posts={posts} page={page} pages={pages} />

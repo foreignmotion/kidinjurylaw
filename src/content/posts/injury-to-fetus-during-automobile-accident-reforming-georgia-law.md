@@ -1,0 +1,28 @@
+---
+title: Injury to Fetus During Automobile Accident – Reforming Georgia Law
+date: 2011-11-24T11:55:03Z
+modified: 2012-03-13T21:21:01Z
+path: /2011/11/24/injury-to-fetus-during-automobile-accident-reforming-georgia-law/
+wpId: 497
+categories:
+  - child-injury-auto-accident
+  - child-injury-law-in-georgia-legal-reform-needed
+tags:
+  - georgia-injury-law
+  - injury-to-fetus-in-auto-accident
+  - unborn-child-injury
+featuredImage: /wp-content/uploads/2011/11/unborn-child.jpg
+excerpt: When a pregnant mother is involved in an automobile collision and her unborn child is injured or killed, do the parents have a claim for the harm caused to their unborn baby? And if so, is the claim viable no … Continue reading &rarr;
+format: html
+---
+<p>When a pregnant mother is involved in an automobile collision and her unborn child is injured or killed, do the parents have a claim for the harm caused to their unborn baby? And if so, is the claim viable no matter how early in the pregnancy the injury to the fetus occurs?</p>
+<p>The answer to the first question in the State of Georgia is &#8220;It depends.&#8221; The answer to the second question is currently &#8220;No.&#8221; but I would argue that the answer should be &#8220;Yes.&#8221; and Georgia law should be reformed. If I&#8217;ve thoroughly confused you with those answers, read on for a fuller explanation!</p>
+<p>In the State of Georgia, under<em> Porter v. Lassiter</em>, 91 Ga. App. 712 (1955) and its progeny the central issue has been framed in terms of the legal fiction of &#8220;quickening.&#8221; An unborn child that has quickened and then is injured or killed has legal rights. An unborn child that has not reached that stage of development has none.</p>
+<p>Georgia law does not give a definite time in a pregnancy when quickening occurs, but decisions have stated that quickening generally occurs sometime between the tenth week and the fourth month of pregnancy. See Brinkley v. State, 253 Ga. at 542; Biegun v. State, 208 Ga. 618, 627 (7) (58 SE2d 149) (1950). The Courts have held that the relevant question is whether the baby has reached the stage where the mother can feel fetal movement. See. Citron <em>et al</em>. v. Ghaffari <em>et al</em> (246 Ga. App. 826) (542 SE2d 555) (2000)</p>
+<p>Georgia is unique in its adherence to the legal fiction of &#8220;quickening.&#8221; The majority of jurisdictions that recognize a cause of action for wrongful death of a fetus limit such actions to claims arising after the fetus is viable. A viable fetus is &#8220;capable of independent existence outside his or her mother&#8217;s womb, . . . even if only in an incubator.&#8221; Black&#8217;s Law Dictionary, p. 1566 (6th ed. 1990). Viability thus presumably occurs later than quickening. Only a few states recognize a cause of action for wrongful death at any point in a pregnancy.</p>
+<p><strong>I believe Georgia law should recognize a cause of action for wrongful death or injury to an unborn child <em>at any point in a pregnancy</em> when the death or injury flows from the negligence of a person other than a family member. </strong>The Georgia legislature has already provided a basis for such a change when in 1991 it passed into law a Feticide by Vehicle law that applies to the earliest stages of pregnancy. For purposes of criminal prosecutions under O.C.G.A. § 40-6-393.1(a), an &#8220;unborn child&#8221; is defined as a member of the species homo sapiens <strong>at any stage of development</strong> who is carried in the womb.</p>
+<p>The existence of a Georgia Fetal Protection Act (sometimes referred to as a PreBorn Victims Act or Unborn Victims Act) defining Fetal Homicide in a manner that includes babies at all stages of development in the womb has other important ramifications that could assist a family in securing fair and adequate compensation for an injury to their baby. It has to do with how much insurance coverage may be available to compensate the family of an injured unborn child.</p>
+<p>Many insurance policies provide a set amount of coverage for <em>each person</em> that was injured. So, within the overall limits of the policy, each <em>additional</em> injured person increases the pool of funds available for compensation. The recognition by the State of Georgia that an unborn child is &#8220;a member of the species homo sapiens&#8221; should be interpreted by the Courts to mean that for purposes of determining insurance coverage, unborn children are treated as separate and distinct persons, thereby increasing the pool of funds available to compensate child victims and their families.</p>
+<p>Just to be clear, however, the current state of the law in Georgia is that in order to recover for injuries to an unborn child, it must be shown that at the time of the injury/death the child had reached a stage in its development where the mother could feel fetal movement. This has been recognized to occur somewhere between the 10th week and 4th month of pregnancy. That is a wide window &#8211; the key to proving quickening is to have some documentation (commonly a medical record) that the mother had been feeling fetal movement prior to the injury or the testimony of a doctor that the baby had reached the stage of development where the mother could have felt movement.</p>
+<p>03/13/2012 UPDATE: Be sure to check out my more recent reflections on this topic and some <a title="Can Doctors Be Sued For The Death of an Unborn, Pre-Viable Child?" href="/2012/03/13/can-doctors-be-sued-for-the-wrongful-death-or-injury-of-an-unborn-pre-viable-child/" target="_blank">good news from the State of Alabama</a>.</p>
+<p>&nbsp;</p>

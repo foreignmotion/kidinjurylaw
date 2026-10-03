@@ -1,0 +1,18 @@
+---
+import Base from '../layouts/Base.astro';
+import PostList from '../components/PostList.astro';
+import { getPosts, SITE } from '../lib/site';
+const posts = (await getPosts()).slice(0, 5);
+---
+<Base title={`Page not found | ${SITE.name}`} path="/404/" noindex>
+  <section class="band band--paper archive-hero" aria-labelledby="nf-title">
+    <div class="wrap">
+      <p class="mono archive-hero__label">404</p>
+      <h1 class="archive-hero__title" id="nf-title">That page isn't here</h1>
+      <p class="archive-hero__count">It may have moved. Try the <a href="/">blog home page</a> or one of the latest posts below.</p>
+    </div>
+  </section>
+  <section class="band band--paper blog-index" aria-label="Latest posts">
+    <div class="wrap" style="padding-bottom: clamp(44px, 24.69px + 4.952vw, 96px)"><div><PostList posts={posts} /></div></div>
+  </section>
+</Base>

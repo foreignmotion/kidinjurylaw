@@ -1,0 +1,44 @@
+---
+// Catch-all for URLs that mirror WordPress permalinks:
+//   /YYYY/MM/DD/slug/  posts
+//   /YYYY/  /YYYY/MM/  /YYYY/MM/DD/   date archives (noindex, as on most WordPress SEO setups)
+//   /about/ (and any other migrated page)
+import { getCollection } from 'astro:content';
+import PostView from '../components/PostView.astro';
+import Archive from '../components/Archive.astro';
+import PageView from '../components/PageView.astro';
+import { getPosts, pathParts } from '../lib/site';
+
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  const pages = await getCollection('pages');
+  const routes: any[] = [];
+  const strip = (p: string) => p.replace(/^\/|\/$/g, '');
+
+  for (const post of posts) routes.push({ params: { route: strip(post.data.path) }, props: { kind: 'post', post } });
+  for (const page of pages) routes.push({ params: { route: strip(page.data.path) }, props: { kind: 'page', page } });
+
+  const groups = new Map<string, { title: string; posts: typeof posts }>();
+  const monthName = (y: string, m: string) =>
+    new Date(Date.UTC(+y, +m - 1, 15)).toLocaleDateString('en-US', { month: 'long', year: 'numeric', timeZone: 'UTC' });
+  for (const post of posts) {
+    const { y, m, d } = pathParts(post);
+    const keys: [string, string][] = [
+      [`${y}`, y],
+      [`${y}/${m}`, monthName(y, m)],
+      [`${y}/${m}/${d}`, new Date(Date.UTC(+y, +m - 1, +d)).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' })],
+    ];
+    for (const [key, title] of keys) {
+      if (!groups.has(key)) groups.set(key, { title, posts: [] });
+      groups.get(key)!.posts.push(post);
+    }
+  }
+  for (const [key, g] of groups) routes.push({ params: { route: key }, props: { kind: 'date', title: g.title, posts: g.posts } });
+  return routes;
+}
+
+const props = Astro.props as any;
+---
+{props.kind === 'post' && <PostView post={props.post} />}
+{props.kind === 'page' && <PageView page={props.page} />}
+{props.kind === 'date' && <Archive label="Archive" title={props.title} path={`/${Astro.params.route}/`} posts={props.posts} noindex />}

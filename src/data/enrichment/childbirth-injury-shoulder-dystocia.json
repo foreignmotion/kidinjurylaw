@@ -1,0 +1,20 @@
+{
+  "slug": "childbirth-injury-shoulder-dystocia",
+  "description": "Shoulder dystocia is a medical emergency your doctor or midwife must manage properly. The permanent injuries that can result when it is not.",
+  "shortAnswer": "Shoulder Dystocia is a medical emergency that your doctor or midwife must manage by following the proper sequence of obstetrical maneuvers. It occurs when the baby's head is delivered but the shoulders get stuck inside the mother's body. Serious injury or death can be the result if proper steps and proper sequencing are not observed.",
+  "sections": [],
+  "faq": [
+    {
+      "q": "What injuries can result if shoulder dystocia is not properly managed?",
+      "a": "Failure to properly manage this medical emergency can result in damage to the brachial plexus nerves and lead to permanent injuries, including Klumpke Paralysis (or Klumpke Palsy), Erb's Palsy, and Fetal Hypoxia, which can lead to cerebral palsy or death."
+    },
+    {
+      "q": "What is Erb's Palsy in a baby?",
+      "a": "Erb's Palsy is paralysis of the arm which may lead to stunted growth and cause that arm to be smaller than your baby's other arm. Your baby may not be able to move the affected arm and surgery may be necessary in order to regain use of that arm."
+    },
+    {
+      "q": "What is Klumpke Palsy?",
+      "a": "With Klumpke Paralysis (or Klumpke Palsy), your baby may have a \"claw hand\" due to the paralysis of the muscles of the forearm and hand."
+    }
+  ]
+}

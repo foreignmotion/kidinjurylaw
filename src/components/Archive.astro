@@ -1,0 +1,49 @@
+---
+import Base from '../layouts/Base.astro';
+import PostList from './PostList.astro';
+import { SITE, type Post } from '../lib/site';
+
+interface Props {
+  label: string;          // e.g. "Topic", "Tag", "Archive"
+  title: string;
+  path: string;
+  posts: Post[];
+  description?: string;
+  noindex?: boolean;
+}
+const { label, title, path, posts, description, noindex } = Astro.props;
+const count = `${posts.length} ${posts.length === 1 ? 'post' : 'posts'}`;
+---
+<Base
+  title={`${title} | ${SITE.name}`}
+  description={description ?? `${title}: ${count} from the ${SITE.name} by Attorney Pete Pearson — ${SITE.tagline.toLowerCase()}.`}
+  path={path}
+  noindex={noindex}
+  jsonLd={[{
+    '@type': 'CollectionPage',
+    name: title,
+    url: new URL(path, SITE.url).href,
+    isPartOf: { '@id': 'https://kidinjurylaw.com/#blog' },
+    breadcrumb: {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: SITE.name, item: 'https://kidinjurylaw.com/' },
+        { '@type': 'ListItem', position: 2, name: title, item: new URL(path, SITE.url).href },
+      ],
+    },
+  }]}
+>
+  <section class="band band--paper archive-hero" aria-labelledby="archive-title">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Kidinjury Law Blog</a></li></ol></nav>
+      <p class="mono archive-hero__label">{label}</p>
+      <h1 class="archive-hero__title" id="archive-title">{title}</h1>
+      <p class="archive-hero__count">{count}</p>
+    </div>
+  </section>
+  <section class="band band--paper blog-index" aria-label="Posts">
+    <div class="wrap" style="padding-bottom: clamp(44px, 24.69px + 4.952vw, 96px)">
+      <div><PostList posts={posts} /></div>
+    </div>
+  </section>
+</Base>

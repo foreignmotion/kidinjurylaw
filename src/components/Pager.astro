@@ -1,0 +1,10 @@
+---
+interface Props { prev?: string; next?: string }
+const { prev, next } = Astro.props;
+---
+{(prev || next) && (
+  <nav class="pager" aria-label="More posts">
+    {next ? <a class="btn btn--outline" href={next} rel="next">Older posts</a> : <span />}
+    {prev ? <a class="btn btn--outline" href={prev} rel="prev">Newer posts</a> : <span />}
+  </nav>
+)}

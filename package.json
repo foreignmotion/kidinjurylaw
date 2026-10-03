@@ -1,0 +1,22 @@
+{
+  "name": "kidinjurylaw",
+  "private": true,
+  "type": "module",
+  "description": "Kidinjury Law Blog (kidinjurylaw.com) — static Astro site migrated from WordPress.com",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node scripts/check-urls.mjs",
+    "preview": "astro preview",
+    "export:wordpress": "node scripts/export-wordpress.mjs",
+    "images": "node scripts/build-images.mjs",
+    "check:enrichment": "node scripts/check-enrichment.mjs"
+  },
+  "dependencies": {
+    "@astrojs/rss": "^4.0.19",
+    "astro": "^5.18.2"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.5",
+    "yaml": "^2.9.1"
+  }
+}

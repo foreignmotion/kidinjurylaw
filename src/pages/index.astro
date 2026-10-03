@@ -1,0 +1,6 @@
+---
+import BlogHome from '../components/BlogHome.astro';
+import { getPosts, SITE } from '../lib/site';
+const posts = await getPosts();
+---
+<BlogHome posts={posts.slice(0, SITE.perPage)} page={1} pages={Math.ceil(posts.length / SITE.perPage)} />

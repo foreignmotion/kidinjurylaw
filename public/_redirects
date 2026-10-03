@@ -1,0 +1,33 @@
+# Legacy WordPress.com URLs -> their pages on the static site. Exact paths first, then patterns
+# (Cloudflare evaluates exact matches faster). www -> apex is a Cloudflare Redirect Rule; see README.
+
+/comments/feed/                                                                                                   /feed/  301
+/news-sitemap.xml                                                                                                 /sitemap.xml  301
+/wp-sitemap.xml                                                                                                   /sitemap.xml  301
+/feed/atom/                                                                                                       /feed/  301
+/feed/rss2/                                                                                                       /feed/  301
+/2012/01/18/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/   /2022/07/15/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/  301
+/2013/05/22/child-death-or-injury-drowning/                                                                       /2020/07/31/child-death-or-injury-drowning/  301
+/2014/06/30/georgia-pool-rules-child-injury-in-swimming-pools-spas-and-recreational-water-parks/                  /2016/05/03/georgia-pool-rules-child-injury-in-swimming-pools-spas-and-recreational-water-parks/  301
+/2014/07/28/how-do-i-get-my-doctor-to-help-me-document-the-full-extent-of-my-childs-head-injury/                  /2016/05/10/how-do-i-get-my-doctor-to-help-me-document-the-full-extent-of-my-childs-head-injury/  301
+/2014/08/31/inadequate-minor-settlement-not-enforceable-until-judicial-approval/                                  /2017/11/28/inadequate-minor-settlement-not-enforceable-until-judicial-approval/  301
+/2018/10/11/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/   /2022/07/15/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/  301
+/category/child-brain-injury-2/                                                                                   /category/child-brain-injury/  301
+/tag/child-burn-injury-2/                                                                                         /tag/child-burn-injury/  301
+/tag/child-dental-malpractice-2/                                                                                  /tag/child-dental-malpractice/  301
+/tag/child-gun-injury-2/                                                                                          /tag/child-gun-injury/  301
+/tag/child-injury-scarring-2/                                                                                     /tag/child-injury-scarring/  301
+/tag/how-do-minorschildren-receive-cash-from-injury-settlement-in-georgia/                                        /tag/how-do-minors-children-receive-cash-from-injury-settlement-in-georgia/  301
+/2020/06/06/case-results-child-daycare-injury-broken-leg/                                                         /2020/06/06/daycare-injury-compensation/  301
+/about/feed/                                                                                                      /about/  301
+/atom.xml                                                                                                         /feed/  301
+
+/:y/:m/:d/:slug/feed/                                                                                             /:y/:m/:d/:slug/  301
+/:y/:m/:d/:slug/amp/                                                                                              /:y/:m/:d/:slug/  301
+/author/*                                                                                                         /about/  301
+/category/:slug/page/:n/                                                                                          /category/:slug/  301
+/tag/:slug/page/:n/                                                                                               /tag/:slug/  301
+/category/:slug/feed/                                                                                             /category/:slug/  301
+/tag/:slug/feed/                                                                                                  /tag/:slug/  301
+/:y/:m/page/:n/                                                                                                   /:y/:m/  301
+/:y/page/:n/                                                                                                      /:y/  301

@@ -1,0 +1,16 @@
+---
+import Archive from '../../components/Archive.astro';
+import { getPosts, tags } from '../../lib/site';
+
+// Every tag URL from the old site (/tag/<slug>/). Most hold a single post, so they're
+// kept reachable for old links and crawlers but left out of the sitemap.
+export async function getStaticPaths() {
+  const posts = await getPosts();
+  return tags.map((t) => ({
+    params: { slug: t.slug },
+    props: { name: t.name, posts: posts.filter((p) => p.data.tags.includes(t.slug)) },
+  }));
+}
+const { name, posts } = Astro.props;
+---
+<Archive label="Tag" title={name} path={`/tag/${Astro.params.slug}/`} posts={posts} noindex={posts.length === 0} />

@@ -1,0 +1,20 @@
+{
+  "slug": "inadequate-minor-settlement-not-enforceable-until-judicial-approval",
+  "description": "Under O.C.G.A. § 29-3-3, no settlement for a minor in excess of $15,000 is enforceable in Georgia without judicial approval.",
+  "shortAnswer": "Georgia law contains a safety net for parents. O.C.G.A. § 29-3-3 establishes that no settlement for a minor in excess of $15,000 is enforceable without judicial approval. A parent may accept such an offer ONLY AFTER a judge reviews and approves the proposed settlement.",
+  "sections": [],
+  "faq": [
+    {
+      "q": "Can an insurance company enforce a settlement I agreed to for my child before a judge approved it?",
+      "a": "A motion to enforce asks a judge to force you to take a purported settlement based on the legal theory that you previously agreed to settle all your child's claims. The problem with such an argument is that Georgia law does not give the right to settle a child's claim to the guardian. That right belongs to the Courts alone."
+    },
+    {
+      "q": "Who is the guardian in a Georgia minor settlement?",
+      "a": "With minor settlements, the \"guardian\" is normally the parent. That is the language the probate court uses to refer to the person who is requesting the legal authority to compromise (aka settle) a minor's claim."
+    },
+    {
+      "q": "Why might an insurance settlement offer for my child be too low?",
+      "a": "There may be an issue of the parent not knowing the extent of the future treatment their child will need. Another common issue that gets overlooked is the subrogation/reimbursement rights of health insurance and employee funded ERISA health plans. More often, the parent is simply misled by the insurer with regard to the reasonable settlement value."
+    }
+  ]
+}

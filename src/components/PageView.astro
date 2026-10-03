@@ -1,0 +1,35 @@
+---
+import { render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import { SITE, toText, fixWordPressHtml } from '../lib/site';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props { page: CollectionEntry<'pages'> }
+const { page } = Astro.props;
+let html = '';
+let Content: any = null;
+if (page.data.format === 'html') html = await fixWordPressHtml(page.body ?? '', { eagerFirstImage: true });
+else ({ Content } = await render(page));
+const text = toText(html);
+const description = text.length > 155 ? text.slice(0, 152).replace(/\s+\S*$/, '') + '…' : text;
+---
+<Base
+  title={`${page.data.title} | ${SITE.name}`}
+  description={page.data.path === '/about/'
+    ? 'Pete Pearson is a Georgia personal injury attorney (Emory Law, 1996) who writes the Kidinjury Law Blog for parents of injured children. Meet Pete and his family.'
+    : description}
+  path={page.data.path}
+  jsonLd={page.data.path === '/about/' ? [{ '@type': 'AboutPage', url: 'https://kidinjurylaw.com/about/', mainEntity: { '@id': 'https://petepearsonlaw.com/about/#pete' } }] : []}
+>
+  <section class="band band--paper archive-hero" aria-labelledby="page-title">
+    <div class="wrap">
+      <nav class="crumbs" aria-label="Breadcrumb"><ol><li><a href="/">Kidinjury Law Blog</a></li></ol></nav>
+      <h1 class="archive-hero__title" id="page-title">{page.data.title}</h1>
+    </div>
+  </section>
+  <div class="band band--paper page-body">
+    <div class="wrap">
+      {Content ? <div class="prose"><Content /></div> : <div class="prose" set:html={html} />}
+    </div>
+  </div>
+</Base>
