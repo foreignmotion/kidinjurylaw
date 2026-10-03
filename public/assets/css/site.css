@@ -336,6 +336,8 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
 /* lighter than the usual helper grey: this sits on the photo overlay, not flat slate (keeps ≥ 4.5:1 over the brightest pixels) */
 .blog-hero__by .cr { font-size: 15px; line-height: 1.5; color: var(--on-slate-soft); }
 .blog-hero__by a { color: var(--white); }
+.blog-hero__by .meet { margin-top: 6px; font-size: 15px; }
+.blog-hero__by .meet a { display: inline-flex; align-items: center; min-height: 32px; text-underline-offset: 4px; }
 
 /* ---------- Post list (ledger) ---------- */
 .post-list { border-top: 1px solid var(--hairline-ink); }
@@ -525,4 +527,12 @@ body { padding-bottom: calc(var(--sticky-bar-h) + env(safe-area-inset-bottom)); 
   .blog-hero::before {
     background: linear-gradient(90deg, rgba(57, 81, 101, .96) 0%, rgba(57, 81, 101, .92) 44%, rgba(57, 81, 101, .30) 66%, rgba(57, 81, 101, .06) 100%);
   }
+}
+
+/* Footer has a fourth link on the blog ("Meet Pete & His Family"): keep labels on one line and only use the
+   single-row footer once there's room for it. */
+.site-footer__nav a { white-space: nowrap; }
+@media (min-width: 1000px) and (max-width: 1199px) {
+  .site-footer__row { flex-direction: column; align-items: flex-start; gap: 20px; }
+  .site-footer__nav { flex-wrap: wrap; column-gap: 32px; }
 }
