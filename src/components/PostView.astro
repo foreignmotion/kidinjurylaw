@@ -1,5 +1,4 @@
 ---
-import { render } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import {
   SITE, AUTHOR, getPosts, getEnrichment, categoryName, tagName, commentsFor, formatDate, isoDate,
@@ -13,10 +12,8 @@ const faq = e.faq ?? [];
 const sections = e.sections ?? [];
 
 // ---- Post body: original HTML for migrated posts, rendered Markdown for new ones ----
-let html = '';
-let MarkdownContent: any = null;
-if (post.data.format === 'html') html = post.body ?? '';
-else ({ Content: MarkdownContent } = await render(post));
+// Both go through the same heading pass below (table of contents + Section Summaries).
+let html = post.data.format === 'html' ? post.body ?? '' : post.rendered?.html ?? '';
 
 // Give h2/h3 headings ids (for the table of contents) and place each section's Short Answer under its heading.
 const norm = (s: string) => toText(s).toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim();
@@ -169,7 +166,7 @@ if (faq.length) {
               <p>{e.shortAnswer}</p>
             </div>
           )}
-          {MarkdownContent ? <div class="prose"><MarkdownContent /></div> : <div class="prose" set:html={html} />}
+          <div class="prose" set:html={html} />
 
           {(cats.length > 0 || post.data.tags.length > 0) && (
             <div class="post-tax">

@@ -1,8 +1,9 @@
 // Verifies Short Answers / FAQ answers stay in the post's own wording.
 // Score = share of the summary's word trigrams that appear verbatim in the post. Flags anything under 0.6.
 import { readFile, readdir } from 'node:fs/promises';
+import { fileURLToPath } from 'node:url';
 
-const ROOT = new URL('../', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const norm = (s) => s
   .replace(/<[^>]+>/g, ' ')
   .replace(/&#8217;|&rsquo;|’|‘|&#8216;/g, "'").replace(/&#8220;|&#8221;|“|”|&quot;/g, '"')
