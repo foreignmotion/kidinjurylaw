@@ -1,0 +1,10 @@
+# Same line endings on every computer (Mac, Windows, Linux) so edits from different machines don't show up as
+# whole-file changes.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.avif binary
+*.gif binary
+*.ico binary

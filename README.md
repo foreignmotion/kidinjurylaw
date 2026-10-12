@@ -5,6 +5,20 @@ Static rebuild of Pete Pearson's blog (formerly WordPress.com), designed to matc
 
 Built with [Astro](https://astro.build) and hosted on Cloudflare Workers (static assets).
 
+## Editing from any computer
+
+Every edit goes **live immediately**: changes are committed straight to `main` and pushed, and Cloudflare
+redeploys within a couple of minutes. There are no branches or pull requests.
+
+- **New computer:** install the Claude desktop app, open the Code tab and paste the starter sentence from
+  [`SETUP-NEW-COMPUTER.md`](SETUP-NEW-COMPUTER.md). Claude installs/checks Git, GitHub sign-in and Node and clones
+  both sites side by side.
+- **Each session** starts with an automatic sync from GitHub (`scripts/sync-on-start.sh`, run by the SessionStart
+  hook in `.claude/settings.json`), so edits made on other computers are always there first.
+- **`/publish`** (`.claude/skills/publish/`) syncs, runs the checks, commits, pushes and confirms the change is live.
+  **`/setup-computer`** re-checks a machine.
+- Rules for Claude live in [`CLAUDE.md`](CLAUDE.md).
+
 ## Commands
 
 ```bash

@@ -3,4 +3,5 @@ dist/
 .astro/
 .wrangler/
 .DS_Store
-.claude/
+.claude/settings.local.json
+.claude/worktrees/
