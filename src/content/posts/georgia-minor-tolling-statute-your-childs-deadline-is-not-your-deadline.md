@@ -57,7 +57,7 @@ O.C.G.A. § 9-3-73 says “notwithstanding” the tolling article. That word is 
 
 A repose is not a limitation period. It does not care when you discovered the harm. It is a hard wall.
 
-There is a narrow exception for a foreign object left in the body, governed by O.C.G.A. § 9-3-72. Do not plan a birth-injury case, a surgical case, or a delayed-diagnosis case around an 18th birthday. I have watched good cases die on that mistake.
+There is a narrow exception for a foreign object left in the body, governed by O.C.G.A. § 9-3-72. Do not plan a birth-injury case, a surgical case, or a delayed-diagnosis case around an 18th birthday.
 
 ## Notice deadlines are not the lawsuit deadline
 
