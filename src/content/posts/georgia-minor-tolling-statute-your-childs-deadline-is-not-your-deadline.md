@@ -81,7 +81,7 @@ Wrongful death depends on who holds the claim. If the proper plaintiff is a mino
 
 Do not treat tolling as permission to wait.
 
-Get the medical records. Photograph the injuries. Write down the names of the witnesses while they still remember. If a city, a county, or the State may be involved, send the notice now. The six-month municipal notice is the one I see families miss, because nobody at the emergency room mentions it.
+Get the medical records. Photograph the injuries. Write down the names of the witnesses while they still remember. If a city, a county, or the State may be involved, send the notice now.
 
 If the offer to settle is more than $25,000, remember that O.C.G.A. § 29-3-3 requires court approval before that settlement binds your child. The old threshold was $15,000. The legislature raised it. A gross settlement of $25,000 or less can be compromised by the natural guardian without court approval and without a conservator. Above $25,000, the court has to approve the deal, and if the net amount the child will actually receive is also over $25,000, a conservator has to be appointed to receive it. A long statute of limitations is not a reason to sign a release at the kitchen table.
 
