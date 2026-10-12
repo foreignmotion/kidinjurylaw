@@ -83,10 +83,10 @@ Do not treat tolling as permission to wait.
 
 Get the medical records. Photograph the injuries. Write down the names of the witnesses while they still remember. If a city, a county, or the State may be involved, send the notice now.
 
-If the offer to settle is more than $25,000, remember that O.C.G.A. § 29-3-3 requires court approval before that settlement binds your child. The old threshold was $15,000. The legislature raised it. A gross settlement of $25,000 or less can be compromised by the natural guardian without court approval and without a conservator. Above $25,000, the court has to approve the deal, and if the net amount the child will actually receive is also over $25,000, a conservator has to be appointed to receive it. A long statute of limitations is not a reason to sign a release at the kitchen table.
+If the offer to settle is more than $25,000, remember that O.C.G.A. § 29-3-3 requires court approval before that settlement binds your child. The old threshold was $15,000. The legislature raised it. A gross settlement of $25,000 or less can be compromised by the natural guardian without court approval and without a conservator. Above $25,000, the court has to approve the deal, and if the net amount the child will actually receive is also over $25,000, a conservator has to be appointed to receive it.
 
 Tolling is a safety net for the child. It is not a safety net for you, not a safety net for a malpractice case, and not a safety net for a notice letter to a city. The families who fare best are the ones who call while the facts are fresh and both claims are still alive.
 
-*Attorney Pete Pearson has practiced personal injury law in Georgia since 1996. He has a special interest in helping families of injured children. He is a father of ten and lives with his wife and children in Newborn, Georgia. His office is in Conyers.*
+*Attorney Pete Pearson has practiced personal injury law in Georgia since 1996. He has a special interest in helping families of injured children. He is a father of ten and lives with his wife and children in Newborn, Georgia.*
 
 If you need to talk, my direct line is Six-Seven-Eight 358-2564, or email [pete@petepearsonlaw.com](mailto:pete@petepearsonlaw.com).
