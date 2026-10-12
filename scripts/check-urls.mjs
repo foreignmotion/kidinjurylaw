@@ -3,8 +3,9 @@
 //  2. any internal link/image in the built pages points at something that doesn't exist.
 import { readFile, readdir, access } from 'node:fs/promises';
 import { join } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const ROOT = new URL('../', import.meta.url).pathname;
+const ROOT = fileURLToPath(new URL('../', import.meta.url));
 const DIST = join(ROOT, 'dist');
 const exists = (p) => access(p).then(() => true, () => false);
 const resolves = async (urlPath) => {
