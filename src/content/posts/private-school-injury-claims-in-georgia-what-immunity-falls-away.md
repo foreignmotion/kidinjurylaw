@@ -1,8 +1,8 @@
 ---
 title: "Hurt at a Private School in Georgia: What Immunity Falls Away, and What Reaches the Case"
-date: 2026-10-13T13:00:00Z
-path: /2026/10/13/private-school-injury-claims-in-georgia-what-immunity-falls-away/
-draft: true
+date: 2026-10-12T16:30:00Z
+path: /2026/10/12/private-school-injury-claims-in-georgia-what-immunity-falls-away/
+draft: false
 categories:
   - child-school-injury-in-georgia
   - child-injuring-child
