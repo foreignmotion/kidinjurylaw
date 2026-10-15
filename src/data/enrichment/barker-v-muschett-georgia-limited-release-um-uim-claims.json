@@ -1,0 +1,53 @@
+{
+  "slug": "barker-v-muschett-georgia-limited-release-um-uim-claims",
+  "description": "In Barker v. Muschett, a Georgia claimant lost her UM claim because her release did not release the settling carrier under O.C.G.A. § 33-24-41.1(b)(1).",
+  "shortAnswer": "In Barker v. Muschett, the claimant settled for the at-fault driver’s policy limits and lost the UM claim entirely. Her release left out one required sentence: it did not “[r]elease the settling carrier from all liability from any claims of the claimant . . . based on injuries to such claimant.”",
+  "sections": [
+    {
+      "heading": "What the statute requires",
+      "shortAnswer": "Subsection (b) says what the limited release “shall” do. It has two parts, and both are mandatory. Part (1) releases the insurance company. Part (2) releases the at-fault driver/tortfeasor, but only personally."
+    },
+    {
+      "heading": "What happened in Barker",
+      "shortAnswer": "The release contains no language releasing the settling carrier. Muschett moved for summary judgment, arguing that because the release did not comply with the statute, it did not preserve the UM claim. The Court of Appeals affirmed."
+    },
+    {
+      "heading": "Why “close enough” lost",
+      "shortAnswer": "Using the statute may be optional. But if you settle with the liability carrier and want to keep the UM claim, the statute is the only road, and you have to stay on it."
+    },
+    {
+      "heading": "What went wrong",
+      "shortAnswer": "The missing sentence protects the insurance company, so nobody on the claimant’s side thinks to insist on it. That is how it gets missed."
+    },
+    {
+      "heading": "The language a limited release must contain after Barker",
+      "shortAnswer": "Put both subsection (b) sentences into the release exactly as the General Assembly wrote them, and label the document as what it is."
+    },
+    {
+      "heading": "Pointers for settling attorneys in every UM/UIM case",
+      "shortAnswer": "State in the demand that the release will be a limited release under O.C.G.A. § 33-24-41.1. Compare every release against the text of § 33-24-41.1(b), line by line, before the client signs."
+    },
+    {
+      "heading": "What clients should know",
+      "shortAnswer": "Do not sign anything with the word “release” on it until your lawyer has compared it to § 33-24-41.1. Do not deposit a settlement check until that question is answered yes."
+    }
+  ],
+  "faq": [
+    {
+      "q": "What must a Georgia limited release under O.C.G.A. § 33-24-41.1 contain to preserve a UM claim?",
+      "a": "It must release the settling carrier “from all liability from any claims of the claimant or claimants based on injuries to such claimant or claimants,” and release the insured tort-feasor “from all personal liability” except to the extent other insurance coverage is available. Track subsection (b) verbatim. Do not paraphrase."
+    },
+    {
+      "q": "Can I still pursue my UM claim in Georgia if my release did not comply with O.C.G.A. § 33-24-41.1?",
+      "a": "In Barker v. Muschett, no. The court held that the statute “sets out a singular procedure” and that the common-law procedure Barker relied on had been superseded. Barker’s release did not comply, so she did not preserve her claim for UM benefits."
+    },
+    {
+      "q": "Can I dismiss the at-fault driver after signing a limited release in Georgia?",
+      "a": "Do not dismiss the at-fault driver with prejudice. In Kent v. State Farm, 233 Ga. App. 564 (1998), the claimants executed a proper limited release and then voluntarily dismissed their claims against the driver with prejudice. That cost them the UM claim, because the injured party must still establish the driver’s legal liability."
+    },
+    {
+      "q": "Can I fix a general release by crossing out language to keep my UM claim?",
+      "a": "No. In Cook v. State Farm, 237 Ga. App. 400 (1999), the claimant struck some language from a “General Release” and argued it preserved his UM rights. It did not. Start with a limited release."
+    }
+  ]
+}

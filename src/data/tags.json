@@ -440,6 +440,10 @@
     "name": "legal principle"
   },
   {
+    "slug": "limited-liability-release",
+    "name": "Limited Liability Release"
+  },
+  {
     "slug": "medical-malpractice",
     "name": "Medical Malpractice"
   },
@@ -598,6 +602,10 @@
   {
     "slug": "unborn-child-injury",
     "name": "Unborn Child Injury"
+  },
+  {
+    "slug": "uninsured-motorist-coverage",
+    "name": "Uninsured Motorist Coverage"
   },
   {
     "slug": "wisdom-teeth-extraction-injury",
