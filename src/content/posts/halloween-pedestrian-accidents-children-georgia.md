@@ -13,7 +13,7 @@ tags:
   - uninsured-motorist-coverage
   - homeowners-insurance
 ---
-Halloween is a happy night in our house. Ten kids, a lot of costumes, a lot of candy.
+Halloween is right around the corner and it is a happy night for many children.
 
 It is also the deadliest night of the year for children on foot.
 
