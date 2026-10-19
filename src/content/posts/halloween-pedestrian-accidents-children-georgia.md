@@ -1,8 +1,8 @@
 ---
 title: "Halloween Is the Most Dangerous Night of the Year for Child Pedestrians. What Georgia Parents Should Know."
-date: 2026-10-21T14:00:00Z
-path: /2026/10/21/halloween-pedestrian-accidents-children-georgia/
-draft: true
+date: 2026-10-19T15:00:00Z
+path: /2026/10/19/halloween-pedestrian-accidents-children-georgia/
+draft: false
 categories:
   - child-injury-auto-accident
   - child-premises-liability-injury
