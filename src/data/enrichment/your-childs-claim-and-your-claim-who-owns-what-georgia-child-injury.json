@@ -1,0 +1,49 @@
+{
+  "slug": "your-childs-claim-and-your-claim-who-owns-what-georgia-child-injury",
+  "description": "When a Georgia child is hurt there are two claims: the child's and the parents'. They cover different losses, run on different clocks, and settle differently.",
+  "shortAnswer": "When a child is hurt, Georgia law sees two claims. One claim belongs to your child. The other belongs to you. They cover different losses. They run on different clocks. They are settled under different rules.",
+  "sections": [
+    {
+      "heading": "What belongs to your child",
+      "shortAnswer": "Your child’s claim is for what happened to your child: pain and suffering, scarring, disability, medical care after turning 18, and lost earning capacity. The money still belongs to the child."
+    },
+    {
+      "heading": "What belongs to you",
+      "shortAnswer": "The parents’ claim is for what the injury costs the family while the child is a minor, including medical bills until your child turns 18. Because the parent owes the bill, the parent holds the claim to recover it."
+    },
+    {
+      "heading": "The two claims run on different clocks",
+      "shortAnswer": "Your child’s claim is protected by the minor tolling statute. Your claim is not protected that way. Treat your claim as running on the ordinary clock: two years from the injury."
+    },
+    {
+      "heading": "When the case settles, the money has to be divided",
+      "shortAnswer": "Your child’s share is protected by court approval under O.C.G.A. § 29-3-3. Your share does not need a judge’s approval. A fair split follows the actual losses."
+    },
+    {
+      "heading": "The medical bills come with strings attached",
+      "shortAnswer": "Whoever paid your child’s medical bills may want to be paid back out of the settlement. Deal with them before the settlement is final, not after."
+    },
+    {
+      "heading": "What I tell parents to do",
+      "shortAnswer": "Keep every bill, statement, and receipt, and write down who paid it. Protect your claim on the ordinary clock. Think about the split before you settle."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Who owns the claim for a child's medical bills in Georgia, the parent or the child?",
+      "a": "Georgia law makes parents responsible for supporting their children until 18. That includes their medical care. Because the parent owes the bill, the parent holds the claim to recover it."
+    },
+    {
+      "q": "Is a parent's claim for a child's medical bills tolled until the child turns 18?",
+      "a": "No. In Swallows v. Adams-Pickett, 344 Ga. App. 647 (2018), the Court of Appeals held that the parents’ claims for their child’s medical expenses were not tolled by the child’s minority. Treat your claim as running on the ordinary clock: two years from the injury."
+    },
+    {
+      "q": "Can a parent recover for loss of consortium when a child is injured in Georgia?",
+      "a": "No. Georgia does not allow a parent to recover for loss of consortium when a child is injured. A husband or wife can bring that claim. A parent cannot."
+    },
+    {
+      "q": "How should a child injury settlement be divided between the parent and the child?",
+      "a": "A fair split follows the actual losses. The medical bills you paid or owe go to your claim. Pain, scarring, disability, and losses after 18 go to your child’s. Expect the judge to ask how the settlement was divided, and why."
+    }
+  ]
+}
