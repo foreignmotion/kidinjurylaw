@@ -12,7 +12,7 @@ tags:
 ---
 There is no harder phone call than the one from a parent whose child has died.
 
-Nothing I can do brings the child back. Parents know that. Most of them are not calling about money. They are calling because someone was careless, and their child paid for it, and they want someone to answer for it.
+Nothing I can do brings the child back. Parents know that. Most of them are not calling about money. They are calling because someone was careless, and their child paid for it. They want the truth to come out about what happened to their child, and they want justice.
 
 Georgia law gives them a way to make that happen. It is called a wrongful death claim. This post explains who holds that claim when the person who died is a child, what a jury is asked to decide, and the deadlines that do not wait for grief.
 
