@@ -2,7 +2,7 @@
 title: "Wrongful Death of a Child in Georgia: Who Can Sue, and What “the Full Value of the Life” Means"
 date: 2026-10-21T13:00:00Z
 path: /2026/10/21/wrongful-death-of-a-child-in-georgia-who-can-sue-full-value-of-life/
-draft: true
+draft: false
 categories:
   - child-wrongful-death
   - child-injury-settlements
