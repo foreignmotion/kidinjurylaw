@@ -2,7 +2,7 @@
 title: "Your Child’s Claim and Your Claim: Who Owns What When a Georgia Child Is Hurt"
 date: 2026-10-23T13:00:00Z
 path: /2026/10/23/your-childs-claim-and-your-claim-who-owns-what-georgia-child-injury/
-draft: true
+draft: false
 categories:
   - child-injury-settlements
   - child-injury-statutes-of-limitation
