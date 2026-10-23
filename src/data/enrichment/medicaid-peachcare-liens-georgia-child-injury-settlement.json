@@ -1,0 +1,53 @@
+{
+  "slug": "medicaid-peachcare-liens-georgia-child-injury-settlement",
+  "description": "When Medicaid or PeachCare paid for a Georgia child's injury care, the state wants repayment. How much it can take, and how to check the lien.",
+  "shortAnswer": "The question is almost never whether Medicaid gets repaid. The question is how much. Federal law limits the state to the part of a settlement that represents medical expenses. Medicaid cannot reach the money for your child’s pain and suffering, scarring, disability, or lost earning capacity.",
+  "sections": [
+    {
+      "heading": "Why Medicaid gets paid back",
+      "shortAnswer": "Medicaid is meant to be the payer of last resort. Georgia law gives the Department of Community Health a right of subrogation and a lien against the recovery, O.C.G.A. §§ 49-4-148 and 49-4-149."
+    },
+    {
+      "heading": "How much Medicaid can take: only the medical part",
+      "shortAnswer": "Federal law limits the state to the part of a settlement that represents medical expenses. The state may also reach the part of a settlement that represents future medical care, not only past care."
+    },
+    {
+      "heading": "The lien letter is a starting number, not the final one",
+      "shortAnswer": "The first number Medicaid sends is rarely the number that should be paid. It is what Medicaid paid, not what the hospital billed. Ask for an itemized payment history."
+    },
+    {
+      "heading": "PeachCare and the Medicaid care management plans",
+      "shortAnswer": "Most Georgia children on Medicaid or PeachCare are enrolled through a care management organization. Expect the repayment claim to come from that plan, or from a recovery company working for it."
+    },
+    {
+      "heading": "Private health insurance is different",
+      "shortAnswer": "Under Georgia’s made-whole statute, O.C.G.A. § 33-24-56.1, a private health insurer can be repaid from an injury settlement only if the injured person has been fully compensated for all losses."
+    },
+    {
+      "heading": "How liens fit into the settlement",
+      "shortAnswer": "Liens are not an afterthought. They shape the whole settlement. The lien numbers need to be final before the settlement goes to the judge."
+    },
+    {
+      "heading": "What I tell parents",
+      "shortAnswer": "Ask for an itemized payment history and check every line. Do not let anyone tell you the state takes everything. It is limited to the medical part of the settlement."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does Georgia Medicaid get paid back from a child's injury settlement?",
+      "a": "Yes. When a family applies for Medicaid, it assigns to the state the right to recover medical payments from anyone responsible for the injury. Georgia law gives the Department of Community Health a right of subrogation and a lien against the recovery."
+    },
+    {
+      "q": "Can Medicaid take my child's pain and suffering money?",
+      "a": "No. In Arkansas Department of Health & Human Services v. Ahlborn (2006), the Court held that federal law limits the state to the part of a settlement that represents medical expenses. Medicaid cannot reach the money for your child’s pain and suffering, scarring, disability, or lost earning capacity."
+    },
+    {
+      "q": "How can I reduce a Medicaid lien on my child's settlement?",
+      "a": "Ask for an itemized payment history. Medicaid’s printout often includes care that had nothing to do with the injury. Every unrelated line should come off. If the settlement is less than the full value of the case, the medical share is smaller too, and the repayment should be reduced to match."
+    },
+    {
+      "q": "Does my private health insurance get repaid from my child's settlement in Georgia?",
+      "a": "Under O.C.G.A. § 33-24-56.1, a private health insurer can be repaid only if the injured person has been fully compensated for all losses, and the insurer must pay its share of the attorney’s fees. Self-funded ERISA plans usually are not bound by Georgia’s made-whole statute."
+    }
+  ]
+}
