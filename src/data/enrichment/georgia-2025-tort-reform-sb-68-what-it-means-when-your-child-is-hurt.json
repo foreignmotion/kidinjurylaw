@@ -1,0 +1,53 @@
+{
+  "slug": "georgia-2025-tort-reform-sb-68-what-it-means-when-your-child-is-hurt",
+  "description": "Georgia's 2025 tort reform, SB 68, changed what a jury hears, how medical bills are proved, and how trials are run. What parents should know.",
+  "shortAnswer": "SB 68 did not cap damages for children and did not shorten the time to file. But it changed what a jury hears, how medical bills are proved, how lawyers may talk about pain and suffering, and how trials are run.",
+  "sections": [
+    {
+      "heading": "Seat belts are now evidence",
+      "shortAnswer": "Under the amended O.C.G.A. § 40-8-76.1, a jury may now hear that an injured person was not wearing a seat belt. The duty to buckle a small child belongs to the adult driving, not the child."
+    },
+    {
+      "heading": "Medical bills: the jury may hear what insurance would pay",
+      "shortAnswer": "For injuries on or after April 21, 2025, the jury may also hear the amount actually needed to satisfy the bill under the family’s health insurance. That evidence can come in even if the family did not use its insurance."
+    },
+    {
+      "heading": "What if the family has no health insurance?",
+      "shortAnswer": "It is harder for the defense to push the medical bills down, but not impossible. If there is no insurance, there is no contract rate to show the jury. The full charges come in, and the jury decides whether they reflect the reasonable value of the care."
+    },
+    {
+      "heading": "New limits on talking about pain and suffering",
+      "shortAnswer": "A lawyer may argue a specific amount for pain and suffering only in closing argument, and only if the amount is rationally related to the evidence."
+    },
+    {
+      "heading": "Split trials",
+      "shortAnswer": "Any party may now demand in writing that the jury decide fault first and damages second, in separate phases."
+    },
+    {
+      "heading": "Children hurt by crime on someone else’s property",
+      "shortAnswer": "SB 68 created a new set of rules for “negligent security” claims, O.C.G.A. §§ 51-3-50 through 51-3-57. The new rules make these claims harder to bring."
+    },
+    {
+      "heading": "What this means for families now",
+      "shortAnswer": "SB 68 did not take away a child’s right to be compensated. It did make these cases harder, more technical, and more dependent on evidence gathered early."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can seat belt use be used against an injured person in a Georgia car accident case?",
+      "a": "Yes. SB 68 ended that rule. A jury may now hear that an injured person was not wearing a seat belt, and may consider it on negligence, comparative fault, causation, and apportionment. A judge can still keep it out if it would be unfairly prejudicial."
+    },
+    {
+      "q": "What happens to medical bill evidence under SB 68 if a family has no health insurance?",
+      "a": "If there is no insurance, there is no contract rate to show the jury. The full charges come in, and the jury decides whether they reflect the reasonable value of the care. Defense lawyers can still argue that the charges are too high, usually through a billing expert."
+    },
+    {
+      "q": "Are letters of protection discoverable in Georgia after SB 68?",
+      "a": "Yes. That arrangement is now relevant and discoverable: the letter itself, the itemized and coded charges, whether a lawyer referred the patient, and, if the doctor sold the account to a finance company, who bought it and how much was paid."
+    },
+    {
+      "q": "Does Georgia's tort reform shorten the deadline to file a child injury claim?",
+      "a": "No. The law did not change the clock, but the parents’ claim and the child’s claim still run on different ones."
+    }
+  ]
+}
