@@ -2,7 +2,7 @@
 title: "Legal Strategies to Minimize (or Avoid) Court Involvement in Georgia Child Injury Settlements, Part II"
 date: 2026-10-26T13:00:00Z
 path: /2026/10/26/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-ii/
-draft: true
+draft: false
 categories:
   - court-approved-minor-settlements
   - child-injury-settlements
