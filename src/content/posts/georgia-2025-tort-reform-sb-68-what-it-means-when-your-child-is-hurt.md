@@ -2,7 +2,7 @@
 title: "Georgia’s 2025 Tort Reform: What It Means When Your Child Is Hurt"
 date: 2026-10-28T13:00:00Z
 path: /2026/10/28/georgia-2025-tort-reform-sb-68-what-it-means-when-your-child-is-hurt/
-draft: true
+draft: false
 categories:
   - child-injury-law-in-georgia-legal-reform-needed
   - child-injury-auto-accident
