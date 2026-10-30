@@ -2,7 +2,7 @@
 title: "Medicaid and PeachCare Paid for My Child’s Care. Do They Get Paid Back From the Settlement?"
 date: 2026-10-30T13:00:00Z
 path: /2026/10/30/medicaid-peachcare-liens-georgia-child-injury-settlement/
-draft: true
+draft: false
 categories:
   - child-injury-settlements
 tags:
