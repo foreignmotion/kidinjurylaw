@@ -1,0 +1,53 @@
+{
+  "slug": "can-the-insurance-company-blame-you-georgia-child-injury",
+  "description": "When a Georgia child is hurt, the insurer may ask “Where were you?” Why it asks, how fault is divided, and what parents should do about it.",
+  "shortAnswer": "The insurance company has an argument, and you have a good answer to it. Georgia divides fault by percentages, so every percentage point a jury puts on someone else is money the insurance company keeps. Being a normal parent is not negligence.",
+  "sections": [
+    {
+      "heading": "Why the insurance company asks",
+      "shortAnswer": "Under O.C.G.A. § 51-12-33, each defendant pays only its own share of the damages. Every percentage point a jury puts on someone else is money the insurance company keeps."
+    },
+    {
+      "heading": "How the blame gets into a lawsuit",
+      "shortAnswer": "To have a jury consider the fault of someone who is not a party, the defendant must file a notice at least 120 days before trial. O.C.G.A. § 51-12-33(d)."
+    },
+    {
+      "heading": "Can a jury actually put fault on a parent?",
+      "shortAnswer": "A jury may consider a nonparty’s fault only when the nonparty is shown to have committed a tort against the plaintiff that was a proximate cause of the injury. Until the courts settle it, expect insurers to try."
+    },
+    {
+      "heading": "Your claim and your child’s claim are affected differently",
+      "shortAnswer": "If you are found partly at fault, your own recovery on that claim can be reduced by your percentage. If a jury assigns a percentage to you as a nonparty, the defendant’s share goes down anyway."
+    },
+    {
+      "heading": "Being a normal parent is not negligence",
+      "shortAnswer": "The law does not require a parent to be perfect, and it does not require you to watch your child every second of the day. The argument is weakest when someone else had taken charge of your child."
+    },
+    {
+      "heading": "When a parent really was part of what happened",
+      "shortAnswer": "Your child may still need money for care, and insurance exists for that. Once a parent’s conduct is in question, the parent’s interests and the child’s interests may not be the same."
+    },
+    {
+      "heading": "The phone call",
+      "shortAnswer": "Never lie about what happened. But you have no duty to give a recorded statement to the other side’s insurance company, and you should not speculate about what you could have done differently."
+    },
+    {
+      "heading": "What I tell parents",
+      "shortAnswer": "Do not give a recorded statement to the other side’s insurance company before you get advice. Tell your lawyer about car seats, seat belts, and anything else you are worried about, at the first meeting."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Can a Georgia jury assign fault to a parent who was not watching a child?",
+      "a": "The insurance company has an argument, and you have a good answer to it. A jury may consider a nonparty’s fault only when the nonparty is shown to have committed a tort against the plaintiff that was a proximate cause of the injury. Until the courts settle it, expect insurers to try."
+    },
+    {
+      "q": "Does a parent's fault reduce the child's injury claim in Georgia?",
+      "a": "The traditional rule is that a parent’s negligence is not imputed to the child. But if a jury assigns a percentage to you as a nonparty, the defendant’s share goes down anyway, and your child can end up with less through no fault of the child’s own."
+    },
+    {
+      "q": "Should I give the other driver's insurance company a recorded statement about my child's injury?",
+      "a": "You have no duty to give a recorded statement to the other side’s insurance company, and you should not speculate about what you could have done differently. Refer the call to your lawyer. Never lie about what happened."
+    }
+  ]
+}
