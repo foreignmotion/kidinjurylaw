@@ -1,7 +1,7 @@
 ---
 title: Child Injury Claims – Georgia Statutes of Limitation
 date: 2011-11-25T10:38:07Z
-modified: 2011-11-18T22:44:57Z
+modified: 2026-11-02T17:00:00Z
 path: /2011/11/25/child-injury-claims-georgia-statutes-of-limitation/
 wpId: 526
 categories:
@@ -11,6 +11,7 @@ featuredImage: /wp-content/uploads/2011/11/details_3d-realistic-hourglass-1-7.jp
 excerpt: A statute of limitation is a deadline for filing suit. It is the maximum time an injured person has after an injury to file a law suit. If the deadline has passed and no suit was filed, no legal action … Continue reading &rarr;
 format: html
 ---
+<p><em>Update, November 2026: I wrote this post in 2011, and parts of it are out of date. Treat a parent's claim for a child's medical bills as running two years from the injury, not four. For the current deadlines, read <a href="/2026/10/12/georgia-minor-tolling-statute-your-childs-deadline-is-not-your-deadline/">The Minor Tolling Statute in Georgia: Your Child's Deadline Is Not Your Deadline</a> and <a href="/2026/10/23/your-childs-claim-and-your-claim-who-owns-what-georgia-child-injury/">Your Child's Claim and Your Claim</a>.</em></p>
 <p>A statute of limitation is a deadline for filing suit. It is the maximum time an injured person has after an injury to file a law suit. If the deadline has passed and no suit was filed, no legal action is permitted.</p>
 <p>Under some circumstances, however, the statute of limitation is suspended or &#8220;tolled.&#8221; Tolling means that an injured person is given more time before the statute of limitation expires or &#8220;runs out.&#8221;</p>
 <p>To illustrate how tolling works, think of an hourglass. It is as if on the day of injury, the law turns the hourglass and the sand begins to flow. When the sand stops flowing, your time to file suit is up. Tolling suspends time, so to speak, it pushes back the time when the law turns the hourglass.</p>
@@ -22,4 +23,4 @@ format: html
 <p>Simple, huh? And in case you&#8217;ve been following all this, here is another wrinkle. There is a recent decision from the Georgia Court of Appeals where the Court confused the rules concerning which statute of limitation applies to the parent&#8217;s claim for medical expenses  and applied the medical malpractice two year limitation in cases that do not arise from medical malpractice.  Because the Courts have not yet corrected this mistake, suits for a parent&#8217;s claim for a child&#8217;s medical expenses should be filed within two years of the date of injury, even when no medical malpractice was involved.</p>
 <p>There also are ante litem notice requirements. Ante litem notices are required anytime you have a claim against a governmental entity, such as Cities, Counties, States, or the federal government. Ante litem notices act like statutes of limitation. If you fail to notify the right department in the proper manner,  you and your child&#8217;s claim will be forever barred. Some of these deadlines are breathtakingly short, as short as six months from the date of injury.</p>
 <p>If your head is not swimming by this point, it should be. Determining which statute of limitation applies to which part of what claims is not for the layperson. We lawyers have to check and double check it ourselves.</p>
-<p>If you have any questions about these important issues, the time to call is immediately. Statutes of limitations are unforgiving. Let me help you make certain you do not miss a deadline. You can contact me <a href="http://www.dplaw.org/lawyer-attorney-1252364.html" target="_blank">here</a>, <a href="http://www.avvo.com/attorneys/31145-ga-peter-pearson-531461.html" target="_blank">here</a>, or <a href="http://lawyers.law.cornell.edu/lawyer/peter-j-pearson-1412628" target="_blank">here</a>.</p>
+<p>If you have any questions about these important issues, the time to call is immediately. Statutes of limitations are unforgiving. Let me help you make certain you do not miss a deadline. You can contact me <a href="https://petepearsonlaw.com/about/" target="_blank">here</a>, <a href="https://www.avvo.com/attorneys/30012-ga-peter-pearson-531461.html" target="_blank">here</a>, or <a href="http://lawyers.law.cornell.edu/lawyer/peter-j-pearson-1412628" target="_blank">here</a>.</p>

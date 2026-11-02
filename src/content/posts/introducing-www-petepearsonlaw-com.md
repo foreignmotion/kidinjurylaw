@@ -17,4 +17,4 @@ format: html
 <p>On top of that, I have a &#8220;NEWS&#8221; section that to be completely honest I added because my web designer said it would help with SEO. But since they persuaded me to add it, I will do my best to use it as a tool to benefit potential clients who go online to research legal questions.</p>
 <p>I hope you will check it out. And offer me any feedback, positive or negative.</p>
 <p>Thank you for reading.</p>
-<p><a title="ABOUT ATTORNEY PETE PEARSON" href="http://petepearsonlaw.com/about-the-attorney/" target="_blank">Attorney Pete Pearson</a></p>
+<p><a title="ABOUT ATTORNEY PETE PEARSON" href="https://petepearsonlaw.com/about/" target="_blank">Attorney Pete Pearson</a></p>

@@ -1,7 +1,7 @@
 ---
 title: Inadequate Minor Settlement – Not Enforceable Until Judicial Approval
 date: 2017-11-29T01:31:51Z
-modified: 2017-11-30T00:16:50Z
+modified: 2026-11-02T17:00:00Z
 path: /2017/11/28/inadequate-minor-settlement-not-enforceable-until-judicial-approval/
 wpId: 1089
 categories:
@@ -14,6 +14,7 @@ featuredImage: /wp-content/uploads/2014/08/settlement-for-minors-300x199.jpg
 excerpt: What are your options as a parent if you agreed to take a settlement offer made by an insurance company but no judge has yet approved the settlement and you have just realized the offer is too low? Georgia law … Continue reading &rarr;
 format: html
 ---
+<p><em>Update, November 2026: When I wrote this post, court approval was required for a minor's settlement of more than $15,000. The legislature has since raised that threshold to $25,000. For the current rules, read <a href="/2022/07/15/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/">Part I</a> and <a href="/2026/10/26/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-ii/">Part II</a> of my posts on court involvement in child injury settlements.</em></p>
 <p>What are your options as a parent if you agreed to take a settlement offer made by an insurance company but no judge has yet approved the settlement and you have just realized the offer is too low?</p>
 <p>Georgia law contains a safety net for you, if you find yourself in that situation. O.C.G.A. § 29-3-3 establishes that<strong style="font-weight:bold;"> no settlement for a minor in excess of $15,000 is enforceable without judicial approval.  </strong></p>
 <p>If the offer to settle your child&#8217;s claim was greater than $15,000.00 your agreement to accept that amount is not legally binding because you did not have legal authority to accept it. A parent may accept such an offer ONLY AFTER a judge reviews and approves the proposed settlement.</p>
@@ -24,7 +25,7 @@ format: html
 <p>Incidentally, <a title="Legal Strategies to Minimize Court Involvement" href="/2012/01/18/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/" target="_blank" rel="noopener">I have argued elsewhere</a> that the Courts have assumed too much power over family life. I&#8217;m an advocate for scaling back the jurisdiction of courts over family matters. But the law as it exists in Georgia at this time clearly puts the power of settlement in the judges&#8217;s hands.</p>
 <p>If you find yourself in this situation, please call me to discuss.</p>
 <p>——————————————————————————-</p>
-<p><a style="color:#005580;" title="About The Attorney" href="http://petepearsonlaw.com/about-the-attorney/" target="_blank" rel="noopener">Attorney Pete Pearson</a> has been working for injury victims for 20 years. Located in the Greater Atlanta Metro Area, he serves clients all over the State of Georgia. He has a sub-specialty in child injury law. You can talk to Attorney Pearson for a free initial consultation by clicking <a style="color:#0088cc;" title="Email Pete" href="http://petepearsonlaw.com/email/" target="_blank" rel="noopener">here</a> or by calling him at Six-Seven-Eight 358-2564.</p>
+<p><a style="color:#005580;" title="About The Attorney" href="https://petepearsonlaw.com/about/" target="_blank" rel="noopener">Attorney Pete Pearson</a> has been working for injury victims for 20 years. Located in the Greater Atlanta Metro Area, he serves clients all over the State of Georgia. He has a sub-specialty in child injury law. You can talk to Attorney Pearson for a free initial consultation by clicking <a style="color:#0088cc;" title="Email Pete" href="mailto:pete@petepearsonlaw.com" target="_blank" rel="noopener">here</a> or by calling him at Six-Seven-Eight 358-2564.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

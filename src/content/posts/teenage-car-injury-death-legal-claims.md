@@ -17,7 +17,7 @@ format: html
 <p><a href="/wp-content/uploads/2013/05/top-causes-of-injury-death-to-children-2009.png"><img loading="lazy" class="aligncenter size-large wp-image-847" alt="Top Causes of Injury Death to Children - 2009" src="/wp-content/uploads/2013/05/top-causes-of-injury-death-to-children-2009.png" width="584" height="431"></a></p>
 <p>&nbsp;</p>
 <p>Source:</p>
-<p>Centers for Disease Control and Prevention /&nbsp;<a href="http://www.cdc.gov/stltpublichealth/townhall/presentations/2012/04_2012_Child_Injury.pdf" target="_blank">CDC Vital Signs:&nbsp;Child Injury</a> (2009 statistics)</p>
+<p>Centers for Disease Control and Prevention /&nbsp;<a href="https://web.archive.org/web/20170301114729/https://www.cdc.gov/stltpublichealth/townhall/presentations/2012/04_2012_child_injury.pdf" target="_blank">CDC Vital Signs:&nbsp;Child Injury</a> (2009 statistics)</p>
 
 
 <h2 class="wp-block-heading"></h2>
@@ -72,4 +72,4 @@ format: html
 
 
 
-<p class="wp-block-paragraph"><a href="https://petepearsonlaw.com/about-the-attorney/">Atlanta Personal Injury Attorney Specializing in Child Injury  &#8211; Pete Pearson</a> </p>
+<p class="wp-block-paragraph"><a href="https://petepearsonlaw.com/about/">Atlanta Personal Injury Attorney Specializing in Child Injury  &#8211; Pete Pearson</a> </p>

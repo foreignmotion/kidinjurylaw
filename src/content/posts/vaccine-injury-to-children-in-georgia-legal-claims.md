@@ -50,7 +50,7 @@ format: html
 <li>a showing of a proximate temporal relationship between vaccination and injury</li>
 </ol>
 <p>Herein lies the rub. If you study the table you will soon notice that very few injuries are listed. And if you study the “Qualifications and Aids to Interpretation” that follow the table you will find mice type replete with exceptions and exemptions and lots of reasons why your claim may not be compensable after all.</p>
-<p>The U.S. Department of Health and Human Services publishes the tables <a title="Vaccine Injury Table" href="http://www.hrsa.gov/vaccinecompensation/vaccinetable.html" target="_blank">here</a>.</p>
+<p>The U.S. Department of Health and Human Services publishes the tables <a title="Vaccine Injury Table" href="https://web.archive.org/web/20170902142058/https://www.hrsa.gov/vaccinecompensation/vaccinetable.html" target="_blank">here</a>.</p>
 <p>So the way the claims process really works is that you need a) to lawyer up and b) get ready to head to Washington (that is where the tribunal sits that hears these claims – the United States Court of Federal Claims). The odds of your child’s injury meeting one of the listings on the injury table are remote and you will most likely need to involve a lawyer in order to prove the vaccine in question caused your child&#8217;s injury.</p>
 <p>Here are a few examples of federal court rulings that have held that vaccines have caused injuries:</p>
 <ul>
@@ -86,9 +86,9 @@ format: html
 <p>Thank you for reading.</p>
 <p>Sources:</p>
 <p><a href="http://www.historyofvaccines.org/content/articles/vaccine-injury-compensation-programs" target="_blank">http://www.historyofvaccines.org/content/articles/vaccine-injury-compensation-programs</a></p>
-<p><a href="http://www.hrsa.gov/vaccinecompensation/vaccinetable.html" target="_blank">http://www.hrsa.gov/vaccinecompensation/vaccinetable.html</a></p>
+<p><a href="https://web.archive.org/web/20170902142058/https://www.hrsa.gov/vaccinecompensation/vaccinetable.html" target="_blank">http://www.hrsa.gov/vaccinecompensation/vaccinetable.html</a></p>
 <p><a href="http://en.wikipedia.org/wiki/Vaccine_court" target="_blank">http://en.wikipedia.org/wiki/Vaccine_court</a></p>
-<p><a href="http://vaers.hhs.gov/index" target="_blank">http://vaers.hhs.gov/index</a></p>
+<p><a href="https://vaers.hhs.gov/" target="_blank">http://vaers.hhs.gov/index</a></p>
 <p><a href="http://articles.mercola.com/sites/articles/archive/2008/12/13/why-vaccine-injured-kids-are-rarely-compensated.aspx" target="_blank">http://articles.mercola.com/sites/articles/archive/2008/12/13/why-vaccine-injured-kids-are-rarely-compensated.aspx</a></p>
 <p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
 <p><em><a title="About Child Injury Attorney Pete Pearson" href="/about/" target="_blank">Attorney Pete Pearson</a> practices law in Atlanta, Georgia and has a special interest in helping families with injured children. He is a father to six and lives with his wife and children near Atlanta, Georgia. He can be reached directly at Six-Seven-Eight 358-2564. </em></p>

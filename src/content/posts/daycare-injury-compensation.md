@@ -113,4 +113,4 @@ format: html
 
 
 
-<p class="wp-block-paragraph"><a href="https://petepearsonlaw.com/about-the-attorney/">Atlanta Personal Injury Attorney Specializing in Child Injury  &#8211; Pete Pearson</a> </p>
+<p class="wp-block-paragraph"><a href="https://petepearsonlaw.com/about/">Atlanta Personal Injury Attorney Specializing in Child Injury  &#8211; Pete Pearson</a> </p>

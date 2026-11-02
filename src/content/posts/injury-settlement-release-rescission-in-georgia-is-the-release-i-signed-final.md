@@ -1,7 +1,7 @@
 ---
 title: INJURY SETTLEMENT RELEASE RESCISSION IN GEORGIA (Is the Release I signed Final?)
 date: 2013-08-30T16:51:55Z
-modified: 2013-08-30T16:51:55Z
+modified: 2026-11-02T17:00:00Z
 path: /2013/08/30/injury-settlement-release-rescission-in-georgia-is-the-release-i-signed-final/
 wpId: 889
 categories:
@@ -15,6 +15,7 @@ featuredImage: /wp-content/uploads/2013/08/injury-release.jpg
 excerpt: Your child has been seriously injured. The first few days are a blur of fear, stress, and struggle to get your mind around what the doctors have told you about your child’s likelihood of recovery. You and your family are … Continue reading &rarr;
 format: html
 ---
+<p><em>Update, November 2026: This post, and the version of O.C.G.A. § 29-3-3 quoted in it, use the old $15,000 threshold for court approval of a minor's settlement. The legislature has since raised it to $25,000. For the current rules, read <a href="/2022/07/15/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-i/">Part I</a> and <a href="/2026/10/26/legal-strategies-to-minimize-or-avoid-court-involvement-in-georgia-child-injury-settlements-part-ii/">Part II</a> of my posts on court involvement in child injury settlements.</em></p>
 <p>Your child has been seriously injured. The first few days are a blur of fear, stress, and struggle to get your mind around what the doctors have told you about your child’s likelihood of recovery. You and your family are worried, upset, and naturally enough, quite vulnerable.</p>
 <p>Into that perfect storm sails an insurance representative for the at-fault party – the insurer for the person or entity that caused your child’s injury. With soothing words and expressions of sorrow and sympathy the insurance company convinces you they are here to help. Representations are made, money is discussed, and it all sounds like a distant echo to you because of your shock and grief.</p>
 <p>But somehow you end up signing a document that settles your child’s injury claim for a few thousand dollars. The representative is so nice and seems so much to want to help. You just want them to go away and leave you and your suffering child alone. You don’t realize it at the time but you are highly suggestible and easy prey for the insurer.</p>

@@ -67,7 +67,7 @@ format: html
 
 
 
-<p class="wp-block-paragraph">If your child has suffered an injury due to negligence – whether from a scalding drink, a faulty product, or an unsafe environment – don&#8217;t let misconceptions deter you from seeking help. At the <a href="http://www.petepearsonlaw.com">Pearson Law Firm, LLC</a>, we&#8217;re dedicated to fighting for families like yours. </p>
+<p class="wp-block-paragraph">If your child has suffered an injury due to negligence – whether from a scalding drink, a faulty product, or an unsafe environment – don&#8217;t let misconceptions deter you from seeking help. At the <a href="https://petepearsonlaw.com/">Pearson Law Firm, LLC</a>, we&#8217;re dedicated to fighting for families like yours. </p>
 
 
 
