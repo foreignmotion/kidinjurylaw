@@ -11,25 +11,25 @@ tags:
   - car-accident
   - georgia-tender-years-doctrine
 ---
-Years ago, a lady came to me after a car wreck. Before she hired me, she had agreed to give a recorded statement to Geico.
+Years ago, a lady came to me after a car wreck. Before she hired me, she had agreed to give a recorded statement to GEICO.
 
-The wreck was not hard to understand. She was driving down Vista Road in Atlanta. The other driver was pulling out of a bank and failed to yield while entering the road.
+The wreck was not hard to understand. She was driving down La Vista Road in Atlanta. The other driver was pulling out of a bank and failed to yield while entering the road.
 
-Even so, Geico was blaming her for 20 percent of the fault. When I looked into why, I found the reason in her recorded statement. It came down to three words.
+Even so, GEICO was blaming her for 20 percent of the fault. When I looked into why, I found the reason in her recorded statement. It came down to three words.
 
 This post is about those three words, why insurance companies want your recorded statement, and what to do when an adjuster asks for yours, especially when your child is the one who was hurt.
 
-## What she said, and what Geico did with it
+## What she said, and what GEICO did with it
 
 In her statement, she said, “I looked up,” and saw the other driver’s vehicle just before crashing into it.
 
 In her mind, that was an innocent way of saying she became aware of what the other driver was doing. People talk that way every day.
 
-Geico heard something else. Geico said she must have been looking at a coffee, or at her phone, or fiddling with the radio in her car. Geico said she was being inattentive, and it assigned her 20 percent of the blame.
+GEICO heard something else. GEICO said she must have been looking at a coffee, or at her phone, or fiddling with the radio in her car. GEICO said she was being inattentive, and it assigned her 20 percent of the blame.
 
 The driver who pulled out of the bank had failed to yield. Georgia law says a driver entering a roadway from any place other than another roadway shall yield the right of way to all vehicles approaching on that roadway. O.C.G.A. § 40-6-73.
 
-It took almost a year to get Geico to accept 100 percent responsibility. Almost a year, all because she agreed to record a statement and Geico twisted her words.
+It took almost a year to get GEICO to accept 100 percent responsibility. Almost a year, all because she agreed to record a statement and GEICO twisted her words.
 
 ## Why the insurance company wants your statement
 
@@ -101,7 +101,7 @@ The same goes for anything you are asked to sign. Do not sign a medical authoriz
 
 ## If you already gave one
 
-Do not panic. A recorded statement can hurt a case without ending it. The lady in my story still got Geico to accept 100 percent responsibility. It just took almost a year that it never should have taken.
+Do not panic. A recorded statement can hurt a case without ending it. The lady in my story still got GEICO to accept 100 percent responsibility. It just took almost a year that it never should have taken.
 
 - Do not give another statement to try to fix the first one.
 - Tell your lawyer right away, and tell your lawyer everything you remember saying.
