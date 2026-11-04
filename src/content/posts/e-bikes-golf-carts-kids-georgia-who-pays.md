@@ -2,7 +2,7 @@
 title: "E-Bikes, Golf Carts, and Kids: Who Pays When a Georgia Child Gets Hurt?"
 date: 2026-11-04T13:00:00Z
 path: /2026/11/04/e-bikes-golf-carts-kids-georgia-who-pays/
-draft: true
+draft: false
 categories:
   - child-bike-injury
   - child-injury-auto-accident
