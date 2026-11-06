@@ -2,7 +2,7 @@
 title: "Childhood Sexual Abuse in Georgia: How Long a Survivor Has to File, and What Has Changed Since I Last Wrote About It"
 date: 2026-11-06T13:00:00Z
 path: /2026/11/06/childhood-sexual-abuse-georgia-filing-deadline-what-changed/
-draft: true
+draft: false
 categories:
   - child-sexual-abuse-litigation
   - child-injury-statutes-of-limitation

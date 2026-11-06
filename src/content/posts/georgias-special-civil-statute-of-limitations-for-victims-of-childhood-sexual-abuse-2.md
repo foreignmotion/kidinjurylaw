@@ -1,7 +1,7 @@
 ---
 title: Georgia’s Special Civil Statute of Limitations for Victims of Childhood Sexual Abuse
 date: 2011-11-15T12:42:40Z
-modified: 2011-11-15T16:08:15Z
+modified: 2026-11-06T14:00:00Z
 path: /2011/11/15/georgias-special-civil-statute-of-limitations-for-victims-of-childhood-sexual-abuse-2/
 wpId: 311
 categories:
@@ -13,6 +13,7 @@ featuredImage: /wp-content/uploads/2011/11/large_boy_crying_737661.jpg
 excerpt: It is common for victim’s of childhood sexual abuse to bring claims against their abuser many years after the actual abuse stops. Problems can arise, however, if too long a period of time goes by with no lawsuit filed. Each … Continue reading &rarr;
 format: html
 ---
+<p><em>Update, November 2026: I wrote this post in 2011, and the law has changed. In 2015 the legislature added a second filing deadline for abuse on or after July 1, 2015, and it set separate rules for claims against institutions. For the current rules, read <a href="/2026/11/06/childhood-sexual-abuse-georgia-filing-deadline-what-changed/">Childhood Sexual Abuse in Georgia: How Long a Survivor Has to File, and What Has Changed Since I Last Wrote About It</a>.</em></p>
 <p>It is common for victim&#8217;s of childhood sexual abuse to bring claims against their abuser many years after the actual abuse stops. Problems can arise, however, if too long a period of time goes by with no lawsuit filed.</p>
 <p>Each state has deadlines for filing a lawsuit. Different types of legal claims have different deadlines. Most personal injury claims are subject to a two (2) year deadline. In the State of Georgia, however, there is a special provision for victims of childhood sexual abuse. Victims are given five (5) years from the date they reach the age of majority (which is 18 in Georgia) to file a civil action (a lawsuit). Essentially, a victim has until their 23rd birthday.</p>
 <p>Georgia&#8217;s special statute of limitations for victims of childhood sexual abuse is found at O.C.G.A. Section 9-3-33.1 and it defines &#8220;childhood sexual abuse&#8221; as meaning &#8220;any act committed by the defendant [the abuser] against the plaintiff [the victim] which act occurred when the plaintiff was under the age of 18 years&#8221;  and then the law lists specific illegal acts covered by the special statute of limitations. They include, but are not necessarily limited to, the following acts of abuse:</p>
