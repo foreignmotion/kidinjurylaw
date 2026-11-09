@@ -2,7 +2,7 @@
 title: "“I Looked Up”: How Three Words in a Recorded Statement Became 20 Percent of the Blame"
 date: 2026-11-09T13:00:00Z
 path: /2026/11/09/recorded-statement-insurance-company-georgia-child-injury/
-draft: true
+draft: false
 categories:
   - child-injury-auto-accident
   - child-injury-settlements
