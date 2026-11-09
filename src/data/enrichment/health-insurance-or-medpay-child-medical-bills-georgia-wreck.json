@@ -21,11 +21,11 @@
     },
     {
       "heading": "How to find out what kind of plan you have",
-      "shortAnswer": "Ask your employer's HR office whether the plan is “fully insured” or “self-funded.” Ask for the Summary Plan Description and look for a section called “Reimbursement,” “Subrogation,” or “Third-Party Liability.”"
+      "shortAnswer": "This is a technical question, and even attorneys struggle with it sometimes. Do not take the plan's word for it. The bottom line is this: get a lawyer to investigate what kind of plan you have."
     },
     {
       "heading": "What I tell parents to do",
-      "shortAnswer": "Find out whether your health plan is self-funded before you decide how to route the bills. Do not sign a reimbursement agreement a plan sends you without having a lawyer read it."
+      "shortAnswer": "Have a lawyer find out whether your health plan is really self-funded before you decide how to route the bills. Do not sign a reimbursement agreement a plan sends you without having a lawyer read it."
     }
   ],
   "faq": [
@@ -40,6 +40,10 @@
     {
       "q": "Why does it matter whether my employer's health plan is self-funded?",
       "a": "Federal law shields self-funded ERISA plans from state insurance rules like Georgia's. If the plan's terms clearly say so, it can be paid back dollar for dollar, even when the family was not made whole and even before the attorney's fees are taken out."
+    },
+    {
+      "q": "My health plan says it is a self-funded ERISA plan. Is that the final word?",
+      "a": "Do not take the plan's word for it. Sometimes a plan will claim to be a self-funded ERISA plan when it is not, because that is the way to get around Georgia's rule. A letter that says “this plan is governed by ERISA” does not make it so."
     },
     {
       "q": "What are the downsides of not using health insurance for my child's wreck bills?",

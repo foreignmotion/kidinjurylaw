@@ -68,18 +68,26 @@ And one rule that has no exceptions: **never delay your child’s care over a bi
 
 ## How to find out what kind of plan you have
 
-You cannot make this decision without knowing what kind of health plan you have. Here is how to find out:
+You cannot make this decision without knowing what kind of health plan you have. I wish I could tell you that is an easy thing to find out. It is not.
+
+This is a technical question, and even attorneys struggle with it sometimes. Whether a plan is self-funded, and whether its language is enough to give it a reimbursement right that overrides Georgia law, is something plans and families fight over in court again and again. A few words in a long plan document can decide it.
+
+Do not take the plan’s word for it, either. Plans want to be paid back. Sometimes a plan, or the company it hires to collect for it, will claim to be a self-funded ERISA plan when it is not, because that is the way to get around Georgia’s rule. A letter that says “this plan is governed by ERISA” does not make it so.
+
+You can start gathering the pieces yourself:
 
 - **Ask your employer’s HR office** whether the plan is “fully insured” or “self-funded” (sometimes called “self-insured”).
 - **Ask for the Summary Plan Description** and the full plan document. Look for a section called “Reimbursement,” “Subrogation,” or “Third-Party Liability.”
 - **Look at the insurance card.** If the insurance company is described as the “claims administrator” and not the insurer, that is a sign the plan may be self-funded.
 - **Find your auto policy’s declarations page** and look for “Medical Payments.” Check the limit. Check the policy of any car your child was riding in.
 
+But the bottom line is this: **get a lawyer to investigate what kind of plan you have.** Give your lawyer those documents, and let your lawyer decide how the bills should be paid.
+
 ## What I tell parents to do
 
 - Get your child the care your child needs. That comes first, always.
 - Report the wreck to your own auto insurer, and ask whether you have MedPay and how much.
-- Find out whether your health plan is self-funded before you decide how to route the bills.
+- Have a lawyer find out whether your health plan is really self-funded before you decide how to route the bills.
 - Keep every bill, every explanation of benefits, and every letter that mentions “reimbursement,” “subrogation,” or “lien.”
 - Do not sign a reimbursement agreement a plan sends you without having a lawyer read it.
 - Talk to a lawyer early. The way the bills are paid in the first weeks can decide how much your family keeps at the end.
