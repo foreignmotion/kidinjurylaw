@@ -101,7 +101,7 @@ The same goes for anything you are asked to sign. Do not sign a medical authoriz
 
 ## If you already gave one
 
-Do not panic. A recorded statement can hurt a case without ending it. The lady in my story still got GEICO to accept 100 percent responsibility. It just took almost a year that it never should have taken.
+Do not panic. A recorded statement can hurt a case without ending it. The lady in my story still got GEICO to accept 100 percent responsibility. But it took almost a year that it never should have taken, and she had to hire an attorney (me!) to get it done.
 
 - Do not give another statement to try to fix the first one.
 - Tell your lawyer right away, and tell your lawyer everything you remember saying.
