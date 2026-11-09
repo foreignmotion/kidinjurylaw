@@ -1,0 +1,49 @@
+{
+  "slug": "health-insurance-or-medpay-child-medical-bills-georgia-wreck",
+  "description": "Who pays your child's medical bills after a Georgia wreck, and why a self-funded ERISA plan's reimbursement rights can make MedPay the better choice.",
+  "shortAnswer": "If your health plan is a self-funded ERISA plan, or another plan with strong reimbursement rights, it MAY be better not to run your child's wreck-related bills through it, if you have MedPay or some other way to pay them. A dollar MedPay pays is much harder for the MedPay carrier to get back.",
+  "sections": [
+    {
+      "heading": "Where the money comes from while you wait",
+      "shortAnswer": "Georgia is not a no-fault state. The money in the meantime usually comes from your health insurance, MedPay on your own auto policy, MedPay on the car your child was riding in, or your own pocket."
+    },
+    {
+      "heading": "The trap: “reimbursement rights”",
+      "shortAnswer": "The plan pays the hospital today. The fine print says that if your family later recovers money from the driver who caused the wreck, the plan gets its money back out of that recovery."
+    },
+    {
+      "heading": "Georgia’s rule protects families. Some plans get around it.",
+      "shortAnswer": "Under O.C.G.A. § 33-24-56.1, a plan may be reimbursed only if the injured person has been fully and completely compensated. Federal law shields self-funded ERISA plans from state insurance rules like Georgia's."
+    },
+    {
+      "heading": "So should you use your health insurance?",
+      "shortAnswer": "This is a tricky calculus. MedPay runs out fast, health insurance gets a discount, and there are deadlines for billing health insurance. Never delay your child's care over a billing question."
+    },
+    {
+      "heading": "How to find out what kind of plan you have",
+      "shortAnswer": "Ask your employer's HR office whether the plan is “fully insured” or “self-funded.” Ask for the Summary Plan Description and look for a section called “Reimbursement,” “Subrogation,” or “Third-Party Liability.”"
+    },
+    {
+      "heading": "What I tell parents to do",
+      "shortAnswer": "Find out whether your health plan is self-funded before you decide how to route the bills. Do not sign a reimbursement agreement a plan sends you without having a lawyer read it."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does the at-fault driver's insurance pay my child's medical bills as they come in?",
+      "a": "The other driver's insurance company is not going to pay any of them. Not now. In Georgia, the at-fault driver's insurer pays once, at the end, when the claim settles. That can be many months away."
+    },
+    {
+      "q": "Do I have to pay my MedPay carrier back out of my child's settlement in Georgia?",
+      "a": "The Supreme Court of Georgia has applied that complete compensation rule to MedPay. For a MedPay carrier to get paid back, it has to clear that hurdle. In my experience, that is a hard burden for a MedPay carrier to meet."
+    },
+    {
+      "q": "Why does it matter whether my employer's health plan is self-funded?",
+      "a": "Federal law shields self-funded ERISA plans from state insurance rules like Georgia's. If the plan's terms clearly say so, it can be paid back dollar for dollar, even when the family was not made whole and even before the attorney's fees are taken out."
+    },
+    {
+      "q": "What are the downsides of not using health insurance for my child's wreck bills?",
+      "a": "MedPay runs out fast. A health plan pays the reduced rate it negotiated with the hospital. Most plans require providers to submit claims within a set time. A Georgia hospital that is not paid can file a lien against your family's injury claim."
+    }
+  ]
+}
