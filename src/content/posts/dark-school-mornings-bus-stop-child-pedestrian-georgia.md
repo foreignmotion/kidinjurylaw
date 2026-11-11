@@ -2,7 +2,7 @@
 title: "Georgia’s School Mornings Could Get Darker. Who Answers When a Child Is Hit at the Bus Stop?"
 date: 2026-11-11T13:00:00Z
 path: /2026/11/11/dark-school-mornings-bus-stop-child-pedestrian-georgia/
-draft: true
+draft: false
 categories:
   - child-school-bus-injury
   - child-injury-school-bus-accidents
