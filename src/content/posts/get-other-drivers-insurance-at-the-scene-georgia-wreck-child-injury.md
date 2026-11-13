@@ -2,7 +2,7 @@
 title: "Get the Other Driver’s Insurance Before You Leave the Wreck. Do Not Count on the Police to Get It for You."
 date: 2026-11-13T13:00:00Z
 path: /2026/11/13/get-other-drivers-insurance-at-the-scene-georgia-wreck-child-injury/
-draft: true
+draft: false
 categories:
   - child-injury-auto-accident
 tags:
