@@ -2,7 +2,7 @@
 title: "Your Child Was Hurt in a Wreck. Should You Use Your Health Insurance or Your MedPay?"
 date: 2026-11-16T13:00:00Z
 path: /2026/11/16/health-insurance-or-medpay-child-medical-bills-georgia-wreck/
-draft: true
+draft: false
 categories:
   - child-injury-auto-accident
   - child-injury-settlements
