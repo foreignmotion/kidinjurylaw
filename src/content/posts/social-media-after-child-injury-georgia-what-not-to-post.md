@@ -2,7 +2,7 @@
 title: "Your Child Was Hurt. What Not to Post on Social Media While the Claim Is Open."
 date: 2026-11-18T13:00:00Z
 path: /2026/11/18/social-media-after-child-injury-georgia-what-not-to-post/
-draft: true
+draft: false
 categories:
   - child-injury-settlements
 tags:
