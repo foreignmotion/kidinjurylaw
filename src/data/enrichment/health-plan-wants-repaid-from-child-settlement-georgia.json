@@ -1,0 +1,53 @@
+{
+  "slug": "health-plan-wants-repaid-from-child-settlement-georgia",
+  "description": "Your health plan wants to be repaid from your child’s injury settlement. How Georgia law and ERISA apply, and how these claims get reduced.",
+  "shortAnswer": "Everything depends on what kind of plan it is. Fully insured plans are bound by Georgia’s complete-compensation rule. Self-funded ERISA plans can collect only what their written terms allow, from money they can still reach, and very few are paid at the first number on the letter.",
+  "sections": [
+    {
+      "heading": "Step one: find out what kind of plan it really is",
+      "shortAnswer": "Under O.C.G.A. § 33-24-56.1, a fully insured plan may be reimbursed only if your child has been fully compensated. Self-funded ERISA plans follow their written terms. Government and most church plans are not ERISA plans at all."
+    },
+    {
+      "heading": "Step two: get the plan document, not the brochure",
+      "shortAnswer": "You have the right to request the plan’s governing documents from the plan administrator, who must provide them within 30 days. Look for reimbursement language, the common fund rule, the made-whole rule, and who the plan binds."
+    },
+    {
+      "heading": "Step three: check the bills",
+      "shortAnswer": "The plan is entitled, at most, to what it actually paid for treatment of this injury. Unrelated visits, duplicate charges, and billed amounts come off."
+    },
+    {
+      "heading": "Step four: whose money is it?",
+      "shortAnswer": "The parent’s claim covers the medical bills while the child is a minor, and the child’s claim covers everything else. Whether a plan can reach a minor’s own recovery is a question courts have answered differently."
+    },
+    {
+      "heading": "Step five: the plan has to be able to reach the money",
+      "shortAnswer": "A self-funded plan enforces reimbursement in equity. Under Montanile, it cannot recover from general assets once the settlement money is spent on things that cannot be traced, but a lawyer holding disputed funds must protect them."
+    },
+    {
+      "heading": "Step six: negotiate, and get it in writing",
+      "shortAnswer": "A small insurance policy, the cost of the lawyer, future medical needs, and Georgia’s 2025 tort reform all support a reduction. Get any reduction in writing before any money is paid out."
+    },
+    {
+      "heading": "Where the judge comes in",
+      "shortAnswer": "A Georgia minor’s settlement above a set amount needs court approval, and the judge will want to know who is being paid out of the settlement and why."
+    },
+    {
+      "heading": "What I tell parents",
+      "shortAnswer": "Do not ignore the letter, do not sign a reimbursement agreement before a lawyer reads it, request the plan document, keep your Explanations of Benefits, and do not settle without knowing in writing what the plan will accept."
+    }
+  ],
+  "faq": [
+    {
+      "q": "Does my health insurance have to be paid back from my child’s injury settlement in Georgia?",
+      "a": "It depends on the plan. Under O.C.G.A. § 33-24-56.1, a fully insured plan may be reimbursed only if your child has been fully and completely compensated, and its recovery is reduced by its share of the attorney’s fees. Self-funded ERISA plans can generally enforce their own written terms instead."
+    },
+    {
+      "q": "How do I get a copy of my employer health plan’s reimbursement terms?",
+      "a": "Request the plan’s governing documents in writing from the plan administrator named in the Summary Plan Description, usually your employer. Under ERISA, the administrator must provide them within 30 days, and a court can impose a daily penalty for failing to do so."
+    },
+    {
+      "q": "Can an ERISA health plan reduce its reimbursement claim on a child’s settlement?",
+      "a": "Yes, and very few are paid at the full first number. A small insurance policy, the cost of the lawyer who made the recovery, the child’s future medical needs, and errors in the plan’s itemization all support a reduction. Get any reduction in writing before money is paid out."
+    }
+  ]
+}
