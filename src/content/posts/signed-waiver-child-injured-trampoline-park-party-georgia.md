@@ -2,7 +2,7 @@
 title: "I Signed a Waiver at the Trampoline Park. Did I Sign Away My Child’s Rights?"
 date: 2026-11-20T13:00:00Z
 path: /2026/11/20/signed-waiver-child-injured-trampoline-park-party-georgia/
-draft: true
+draft: false
 categories:
   - child-premises-liability-injury
   - child-sports-injuries
