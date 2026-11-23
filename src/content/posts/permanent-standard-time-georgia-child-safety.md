@@ -2,7 +2,7 @@
 title: "Stop Arguing About Daylight Saving Time. For Georgia’s Children, Choose Standard Time All Year."
 date: 2026-11-23T14:00:00Z
 path: /2026/11/23/permanent-standard-time-georgia-child-safety/
-draft: true
+draft: false
 categories:
   - child-injury-law-in-georgia-legal-reform-needed
   - child-school-bus-injury
