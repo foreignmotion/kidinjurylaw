@@ -2,7 +2,7 @@
 title: "My Child Was Hurt at Grandma’s House Over the Holidays. Do I Have to Sue My Family?"
 date: 2026-11-25T14:00:00Z
 path: /2026/11/25/child-hurt-at-relatives-house-holidays-homeowners-insurance-georgia/
-draft: true
+draft: false
 categories:
   - child-premises-liability-injury
 tags:
